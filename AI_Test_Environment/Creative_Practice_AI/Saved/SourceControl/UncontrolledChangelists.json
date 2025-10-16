@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"T:/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAI_BP.uasset",
+				"T:/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAIController_BP.uasset",
+				"T:/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/BehaviourTrees/BaseAIBehaviour_BT.uasset",
+				"T:/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/G9/C88XVIMI6HE88Q2CXPXI0N.uasset",
+				"T:/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/ZM/JVRTK33NSOS5LODD4CV5UN.uasset",
+				"T:/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/Q2/93GSN1GKUTPDCNNHV27HO5.uasset",
+				"T:/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/BehaviourTrees/BaseAI_BB.uasset"
+			]
+		}
+	]
+}
