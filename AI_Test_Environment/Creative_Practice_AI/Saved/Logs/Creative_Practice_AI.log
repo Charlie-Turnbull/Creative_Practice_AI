@@ -1873,3 +1873,1965 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.23-09.59.15:864][927]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.23-09.59.15:864][927]AssetCheck: /Game/AI/Blueprints/BaseAIController_BP Validating asset
 [2025.10.23-09.59.15:877][927]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.23-10.00.17:060][641]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2025.10.23-10.02.25:284][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.10.23-10.02.25:287][834]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.024
+[2025.10.23-10.02.25:288][834]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/Blueprints/BaseAI_BP] ([2] browsable assets)...
+[2025.10.23-10.02.25:374][834]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/Blueprints/BaseAI_BP.BaseAI_BP]
+[2025.10.23-10.02.25:374][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Blueprints/BaseAI_BP]
+[2025.10.23-10.02.25:382][834]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/Blueprints/BaseAI_BP_Auto3
+[2025.10.23-10.02.25:382][834]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/BaseAI_BP_Auto39C7905D44AE21D85C877F1A4920B9DA5.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/Autosaves/Game/AI/Blueprints/BaseAI_BP_Auto3.uasset'
+[2025.10.23-10.02.25:382][834]LogFileHelpers: Auto-saving content packages took 0.096
+[2025.10.23-10.10.07:809][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.10.23-10.10.08:308][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.23-10.10.08:366][815]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/Blueprints/BaseAI_BP] ([2] browsable assets)...
+[2025.10.23-10.10.08:458][815]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/Blueprints/BaseAI_BP.BaseAI_BP]
+[2025.10.23-10.10.08:458][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Blueprints/BaseAI_BP]
+[2025.10.23-10.10.08:467][815]LogSavePackage: Moving output files for package: /Game/AI/Blueprints/BaseAI_BP
+[2025.10.23-10.10.08:467][815]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/BaseAI_BP4E109F214DB09EF9C56FEC906F635E06.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAI_BP.uasset'
+[2025.10.23-10.10.08:475][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 166.321 ms (total: 1.11 sec)
+[2025.10.23-10.10.08:511][815]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.23-10.10.08:511][815]LogContentValidation: Enabled validators:
+[2025.10.23-10.10.08:511][815]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.23-10.10.08:511][815]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.23-10.10.08:511][815]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.23-10.10.08:511][815]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.23-10.10.08:511][815]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.23-10.10.08:511][815]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.23-10.10.08:511][815]AssetCheck: /Game/AI/Blueprints/BaseAI_BP Validating asset
+[2025.10.23-10.12.22:295][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.10.23-10.12.22:826][816]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.23-10.12.22:881][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/Blueprints/BaseAI_BP] ([2] browsable assets)...
+[2025.10.23-10.12.22:967][816]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/Blueprints/BaseAI_BP.BaseAI_BP]
+[2025.10.23-10.12.22:967][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Blueprints/BaseAI_BP]
+[2025.10.23-10.12.22:975][816]LogSavePackage: Moving output files for package: /Game/AI/Blueprints/BaseAI_BP
+[2025.10.23-10.12.22:975][816]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/BaseAI_BP0DEF1FE04163675C3CA4B1883A74FB57.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAI_BP.uasset'
+[2025.10.23-10.12.22:985][816]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.303 ms (total: 1.27 sec)
+[2025.10.23-10.12.23:043][816]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.23-10.12.23:043][816]LogContentValidation: Enabled validators:
+[2025.10.23-10.12.23:043][816]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.23-10.12.23:043][816]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.23-10.12.23:043][816]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.23-10.12.23:043][816]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.23-10.12.23:043][816]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.23-10.12.23:043][816]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.23-10.12.23:043][816]AssetCheck: /Game/AI/Blueprints/BaseAI_BP Validating asset
+[2025.10.23-10.13.55:285][284]LogWindows: LaunchFileInExternalEditor C:/Apps/Epic Games2025/UE_5.6.1/Engine/Source/Runtime/Engine/Private/KismetSystemLibrary.cpp 
+[2025.10.23-10.13.57:986][284]LogWindows: Launch application code for C:/Apps/Epic Games2025/UE_5.6.1/Engine/Source/Runtime/Engine/Private/KismetSystemLibrary.cpp : 42
+[2025.10.23-10.13.57:986][284]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:991][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:993][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:994][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:995][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:996][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:996][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:996][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:996][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:996][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:996][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:996][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:996][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:996][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:996][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:996][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:996][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:996][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:996][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:996][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:997][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:997][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:997][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:997][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:997][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:997][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:997][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.57:997][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:002][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:002][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:003][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:003][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:003][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:003][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:003][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:003][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:010][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:010][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:010][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:011][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:015][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:015][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:020][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:029][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:029][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:034][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:169][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:169][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:170][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:170][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:170][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:170][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:170][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:170][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:170][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:170][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:170][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:170][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:170][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:170][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:170][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:170][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:170][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:171][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:171][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:171][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:171][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:171][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:171][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:171][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:171][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:171][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:171][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:171][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:171][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:171][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:171][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:172][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:172][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:172][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:172][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:172][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:172][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:172][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:172][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:172][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:172][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:172][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:172][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:172][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:172][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:172][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:172][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:172][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:172][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:172][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:172][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:172][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:172][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:172][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:172][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:173][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:173][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:173][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:173][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:173][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:173][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:173][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:173][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:173][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:173][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:173][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:173][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:173][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:173][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:173][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:173][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:173][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:173][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:174][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:176][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:176][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:176][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:176][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:176][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:176][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:176][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:176][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:176][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:176][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:176][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:176][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:176][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:176][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:176][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:176][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:176][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:176][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:176][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:176][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:177][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:177][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:177][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:177][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:177][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:177][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:177][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:177][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:177][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:177][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:177][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:177][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:178][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:183][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:183][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:183][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:183][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:184][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:184][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:184][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:184][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:191][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:191][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:191][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:193][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:196][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:197][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:202][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:212][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:212][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.13.58:218][284]LogVSAccessor: Warning: Couldn't access module table
+[2025.10.23-10.16.56:719][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.10.23-10.16.56:721][  6]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.023
+[2025.10.23-10.16.56:722][  6]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Blueprints/BaseAIController_BP] ([2] browsable assets)...
+[2025.10.23-10.16.56:722][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Blueprints/BaseAIController_BP]
+[2025.10.23-10.16.56:729][  6]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/Blueprints/BaseAIController_BP_Auto4
+[2025.10.23-10.16.56:729][  6]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/BaseAIController_BP_Auto451EC8FAF45F7144125EDF681E2A96938.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/Autosaves/Game/AI/Blueprints/BaseAIController_BP_Auto4.uasset'
+[2025.10.23-10.16.56:730][  6]LogFileHelpers: Auto-saving content packages took 0.009
+[2025.10.23-10.19.39:240][176]LogDerivedDataCache: C:/Users/cturnb300/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.23-10.22.53:336][257]LogStreaming: Display: FlushAsyncLoading(593): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.23-10.22.53:462][260]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.10.23-10.22.54:123][331]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.10.23-10.22.54:241][338]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.10.23-10.22.54:259][339]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.10.23-10.23.45:047][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.23-10.23.46:569][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.23-10.23.46:617][525]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Blueprints/BaseAIController_BP] ([2] browsable assets)...
+[2025.10.23-10.23.46:617][525]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Blueprints/BaseAIController_BP]
+[2025.10.23-10.23.46:625][525]LogSavePackage: Moving output files for package: /Game/AI/Blueprints/BaseAIController_BP
+[2025.10.23-10.23.46:626][525]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/BaseAIController_BPBBC1645347D91A95D79512914EBA3A9C.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAIController_BP.uasset'
+[2025.10.23-10.23.46:632][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.508 ms (total: 1.33 sec)
+[2025.10.23-10.23.46:667][525]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.23-10.23.46:667][525]LogContentValidation: Enabled validators:
+[2025.10.23-10.23.46:667][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.23-10.23.46:667][525]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.23-10.23.46:667][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.23-10.23.46:667][525]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.23-10.23.46:667][525]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.23-10.23.46:667][525]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.23-10.23.46:668][525]AssetCheck: /Game/AI/Blueprints/BaseAIController_BP Validating asset
+[2025.10.23-10.24.24:298][ 20]LogShaderCompilers: Display: ================================================
+[2025.10.23-10.24.24:298][ 20]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.23-10.24.24:298][ 20]LogShaderCompilers: Display: Total job queries 18,353, among them cache hits 2,134 (11.63%), DDC hits 12,363 (67.36%), Duplicates 3,273 (17.83%)
+[2025.10.23-10.24.24:298][ 20]LogShaderCompilers: Display: Tracking 12,946 distinct input hashes that result in 11,857 distinct outputs (91.59%)
+[2025.10.23-10.24.24:298][ 20]LogShaderCompilers: Display: RAM used: 158.34 MiB of 3.20 GiB budget. Usage: 4.83%
+[2025.10.23-10.24.24:298][ 20]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.23-10.24.24:298][ 20]LogShaderCompilers: Display: Shaders Compiled: 583
+[2025.10.23-10.24.24:298][ 20]LogShaderCompilers: Display: Jobs assigned 583, completed 583 (100%)
+[2025.10.23-10.24.24:298][ 20]LogShaderCompilers: Display: Average time worker was idle: 27.62 s
+[2025.10.23-10.24.24:298][ 20]LogShaderCompilers: Display: Time job spent in pending queue: average 2.86 s, longest 17.96 s
+[2025.10.23-10.24.24:298][ 20]LogShaderCompilers: Display: Job execution time: average 5.85 s, max 25.96 s
+[2025.10.23-10.24.24:298][ 20]LogShaderCompilers: Display: Job life time (pending + execution): average 8.71 s, max 26.09
+[2025.10.23-10.24.24:298][ 20]LogShaderCompilers: Display: Shader code size: total 9.35 MiB, numShaders 606, average 15.799 KiB, min 2.246 KiB, max 55.505 KiB
+[2025.10.23-10.24.24:298][ 20]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 60.36 s
+[2025.10.23-10.24.24:298][ 20]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.10.23-10.24.24:298][ 20]LogShaderCompilers: Display: Jobs were issued in 158 batches (only local compilation was used), average 3.69 jobs/batch
+[2025.10.23-10.24.24:298][ 20]LogShaderCompilers: Display: Average processing rate: 9.66 jobs/sec
+[2025.10.23-10.24.24:298][ 20]LogShaderCompilers: Display: Total thread time: 590.306 s
+[2025.10.23-10.24.24:298][ 20]LogShaderCompilers: Display: Total thread preprocess time: 166.286 s
+[2025.10.23-10.24.24:298][ 20]LogShaderCompilers: Display: Percentage time preprocessing: 28.17%
+[2025.10.23-10.24.24:298][ 20]LogShaderCompilers: Display: Effective parallelization: 9.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.815024
+[2025.10.23-10.24.24:300][ 20]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.23-10.24.24:300][ 20]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   12 times, average 5.63 sec, max 16.83 sec, min 0.86 sec)
+[2025.10.23-10.24.24:300][ 20]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 5.05 sec, max 18.72 sec, min 0.90 sec)
+[2025.10.23-10.24.24:300][ 20]LogShaderCompilers: Display:                          FPathTracingVolumetricCloudMaterial (compiled    1 times, average 3.64 sec, max 3.64 sec, min 3.64 sec)
+[2025.10.23-10.24.24:300][ 20]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 3.35 sec, max 3.35 sec, min 3.35 sec)
+[2025.10.23-10.24.24:300][ 20]LogShaderCompilers: Display:                      FPathTracingBuildCloudAccelerationMapCS (compiled    1 times, average 3.34 sec, max 3.34 sec, min 3.34 sec)
+[2025.10.23-10.24.24:300][ 20]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.23-10.24.24:300][ 20]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 24.39% of total time (compiled   80 times, average 1.80 sec, max 2.18 sec, min 1.40 sec)
+[2025.10.23-10.24.24:300][ 20]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 11.44% of total time (compiled   12 times, average 5.63 sec, max 16.83 sec, min 0.86 sec)
+[2025.10.23-10.24.24:300][ 20]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.22% of total time (compiled   45 times, average 1.34 sec, max 15.60 sec, min 0.19 sec)
+[2025.10.23-10.24.24:300][ 20]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 8.55% of total time (compiled   10 times, average 5.05 sec, max 18.72 sec, min 0.90 sec)
+[2025.10.23-10.24.24:300][ 20]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.57% of total time (compiled   21 times, average 2.13 sec, max 18.30 sec, min 0.53 sec)
+[2025.10.23-10.24.24:300][ 20]LogShaderCompilers: Display: === Material stats ===
+[2025.10.23-10.24.24:300][ 20]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.23-10.24.24:300][ 20]LogShaderCompilers: Display: Materials Translated:    146
+[2025.10.23-10.24.24:300][ 20]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.10.23-10.24.24:300][ 20]LogShaderCompilers: Display: Material Translation Only: 0.03 s (23%)
+[2025.10.23-10.24.24:300][ 20]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.23-10.24.24:300][ 20]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.10.23-10.24.24:300][ 20]LogShaderCompilers: Display: ================================================
+[2025.10.23-10.24.37:109][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.10.23-10.24.37:808][618]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.23-10.24.37:865][618]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Blueprints/BaseAIController_BP] ([2] browsable assets)...
+[2025.10.23-10.24.37:865][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Blueprints/BaseAIController_BP]
+[2025.10.23-10.24.37:875][618]LogSavePackage: Moving output files for package: /Game/AI/Blueprints/BaseAIController_BP
+[2025.10.23-10.24.37:875][618]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/BaseAIController_BP12A077A6410137F9F7878DA332D44770.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAIController_BP.uasset'
+[2025.10.23-10.24.37:881][618]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.604 ms (total: 1.41 sec)
+[2025.10.23-10.24.37:931][618]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.23-10.24.37:931][618]LogContentValidation: Enabled validators:
+[2025.10.23-10.24.37:931][618]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.23-10.24.37:931][618]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.23-10.24.37:932][618]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.23-10.24.37:932][618]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.23-10.24.37:932][618]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.23-10.24.37:932][618]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.23-10.24.37:932][618]AssetCheck: /Game/AI/Blueprints/BaseAIController_BP Validating asset
+[2025.10.23-10.26.02:060][534]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.23-10.26.13:631][823]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.23-10.26.40:922][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.10.23-10.26.41:753][177]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.23-10.26.41:798][177]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Blueprints/BaseAIController_BP] ([2] browsable assets)...
+[2025.10.23-10.26.41:798][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Blueprints/BaseAIController_BP]
+[2025.10.23-10.26.41:808][177]LogSavePackage: Moving output files for package: /Game/AI/Blueprints/BaseAIController_BP
+[2025.10.23-10.26.41:809][177]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/BaseAIController_BP187D2A95453061415C4841964452FA6E.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAIController_BP.uasset'
+[2025.10.23-10.26.41:815][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.526 ms (total: 1.47 sec)
+[2025.10.23-10.26.41:851][177]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.23-10.26.41:851][177]LogContentValidation: Enabled validators:
+[2025.10.23-10.26.41:851][177]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.23-10.26.41:851][177]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.23-10.26.41:851][177]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.23-10.26.41:851][177]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.23-10.26.41:851][177]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.23-10.26.41:851][177]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.23-10.26.41:852][177]AssetCheck: /Game/AI/Blueprints/BaseAIController_BP Validating asset
+[2025.10.23-10.26.42:192][203]LogPSOHitching: Encountered 250 PSO creation hitches so far (66 graphics, 184 compute). 0 of them were precached.
+[2025.10.23-10.27.24:304][160]LogShaderCompilers: Display: ================================================
+[2025.10.23-10.27.24:304][160]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.23-10.27.24:304][160]LogShaderCompilers: Display: Total job queries 18,355, among them cache hits 2,134 (11.63%), DDC hits 12,364 (67.36%), Duplicates 3,273 (17.83%)
+[2025.10.23-10.27.24:304][160]LogShaderCompilers: Display: Tracking 12,948 distinct input hashes that result in 11,859 distinct outputs (91.59%)
+[2025.10.23-10.27.24:304][160]LogShaderCompilers: Display: RAM used: 158.35 MiB of 3.20 GiB budget. Usage: 4.83%
+[2025.10.23-10.27.24:304][160]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.23-10.27.24:304][160]LogShaderCompilers: Display: Shaders Compiled: 584
+[2025.10.23-10.27.24:304][160]LogShaderCompilers: Display: Jobs assigned 584, completed 584 (100%)
+[2025.10.23-10.27.24:304][160]LogShaderCompilers: Display: Average time worker was idle: 29.03 s
+[2025.10.23-10.27.24:304][160]LogShaderCompilers: Display: Time job spent in pending queue: average 2.86 s, longest 17.96 s
+[2025.10.23-10.27.24:304][160]LogShaderCompilers: Display: Job execution time: average 5.84 s, max 25.96 s
+[2025.10.23-10.27.24:304][160]LogShaderCompilers: Display: Job life time (pending + execution): average 8.70 s, max 26.09
+[2025.10.23-10.27.24:304][160]LogShaderCompilers: Display: Shader code size: total 9.356 MiB, numShaders 607, average 15.785 KiB, min 2.246 KiB, max 55.505 KiB
+[2025.10.23-10.27.24:304][160]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 60.89 s
+[2025.10.23-10.27.24:304][160]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display: Jobs were issued in 159 batches (only local compilation was used), average 3.67 jobs/batch
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display: Average processing rate: 9.59 jobs/sec
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display: Total thread time: 590.604 s
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display: Total thread preprocess time: 166.305 s
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display: Percentage time preprocessing: 28.16%
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display: Effective parallelization: 9.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.808265
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   12 times, average 5.63 sec, max 16.83 sec, min 0.86 sec)
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 5.05 sec, max 18.72 sec, min 0.90 sec)
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display:                          FPathTracingVolumetricCloudMaterial (compiled    1 times, average 3.64 sec, max 3.64 sec, min 3.64 sec)
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 3.35 sec, max 3.35 sec, min 3.35 sec)
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display:                      FPathTracingBuildCloudAccelerationMapCS (compiled    1 times, average 3.34 sec, max 3.34 sec, min 3.34 sec)
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 24.37% of total time (compiled   80 times, average 1.80 sec, max 2.18 sec, min 1.40 sec)
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 11.43% of total time (compiled   12 times, average 5.63 sec, max 16.83 sec, min 0.86 sec)
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.26% of total time (compiled   46 times, average 1.32 sec, max 15.60 sec, min 0.19 sec)
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 8.54% of total time (compiled   10 times, average 5.05 sec, max 18.72 sec, min 0.90 sec)
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.57% of total time (compiled   21 times, average 2.13 sec, max 18.30 sec, min 0.53 sec)
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display: === Material stats ===
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display: Materials Translated:    146
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display: Material Translation Only: 0.03 s (23%)
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.10.23-10.27.24:305][160]LogShaderCompilers: Display: ================================================
+[2025.10.23-10.27.38:877][877]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.23-10.27.38:883][877]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.23-10.27.38:883][877]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.10.23-10.27.38:883][877]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 536 us (total: 2.130 ms)
+[2025.10.23-10.27.38:891][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.23-10.27.38:891][877]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.23-10.27.38:896][877]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.23-10.27.38:897][877]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 820 us (total: 3.204 ms)
+[2025.10.23-10.27.38:897][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005160s)
+[2025.10.23-10.27.38:897][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.005196s)
+[2025.10.23-10.27.38:915][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.10.23-10.27.38:917][877]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.10.23-10.27.38:919][877]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.23-10.27.38:919][877]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.23-10.27.38:919][877]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.23-10.27.38:919][877]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.23-10.27.38:920][877]LogWorldPartition: Display: WorldPartition initialize took 1.109 ms (total: 125.164 ms)
+[2025.10.23-10.27.38:920][877]LogPlayLevel: PIE: World Init took: (0.002712s)
+[2025.10.23-10.27.38:920][877]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.10.23-10.27.38:920][877]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.23-10.27.38:920][877]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.23-10.27.38:920][877]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.23-10.27.38:920][877]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.23-10.27.38:920][877]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.23-10.27.38:920][877]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.23-10.27.38:920][877]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.23-10.27.38:920][877]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.23-10.27.38:920][877]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.23-10.27.38:921][877]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.23-10.27.38:921][877]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.23-10.27.38:923][877]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.23-10.27.38:946][877]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.10.23-10.27.38:946][877]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.23-10.27.38:947][877]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.23-10.27.38:947][877]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.23-10.27.38:947][877]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.10.23-10.27.38:947][877]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.10.23-10.27.38:949][877]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.10.23-10.27.38:949][877]LogInit: FAudioDevice initialized with ID 5.
+[2025.10.23-10.27.38:949][877]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.10.23-10.27.38:949][877]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lvl_FirstPerson'.
+[2025.10.23-10.27.38:949][877]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.23-10.27.38:953][877]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.23-10.27.38:955][877]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.10.23-11.27.38
+[2025.10.23-10.27.38:956][877]LogWorld: Bringing up level for play took: 0.002915
+[2025.10.23-10.27.38:957][877]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.10.23-10.27.38:962][877]PIE: Server logged in
+[2025.10.23-10.27.38:964][877]PIE: Play in editor total start time 0.082 seconds.
+[2025.10.23-10.27.38:965][877]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.38:967][877]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Player Seen, BB Updated
+[2025.10.23-10.27.38:982][878]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:010][878]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.23-10.27.39:035][879]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:060][880]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:068][881]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:077][882]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:085][883]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:093][884]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:101][885]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:110][886]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:118][887]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:127][888]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:134][889]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:142][890]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:152][891]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:160][892]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:169][893]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:177][894]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:185][895]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:192][896]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:201][897]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:210][898]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:218][899]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:227][900]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:235][901]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:243][902]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:251][903]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:260][904]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:268][905]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:277][906]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:285][907]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:293][908]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:302][909]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:310][910]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:318][911]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:327][912]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:335][913]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:343][914]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:352][915]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:360][916]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:368][917]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:377][918]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:384][919]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:392][920]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:402][921]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:410][922]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:418][923]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:426][924]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:435][925]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:443][926]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:451][927]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:460][928]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:469][929]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:476][930]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:485][931]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:494][932]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:501][933]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:510][934]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:518][935]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:527][936]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:535][937]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:544][938]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:551][939]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:560][940]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:568][941]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:577][942]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:585][943]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:594][944]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:601][945]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:610][946]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:618][947]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:627][948]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:635][949]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:643][950]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:652][951]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:660][952]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:668][953]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:677][954]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:685][955]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:693][956]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:701][957]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:710][958]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:718][959]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:727][960]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:735][961]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:745][962]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:752][963]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:760][964]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:769][965]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:776][966]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:785][967]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:793][968]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:801][969]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:810][970]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:818][971]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:827][972]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:835][973]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:843][974]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:852][975]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:860][976]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:868][977]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:877][978]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:886][979]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:894][980]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:903][981]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:911][982]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:920][983]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:928][984]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:936][985]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:945][986]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:952][987]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:961][988]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:969][989]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:978][990]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:986][991]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.39:994][992]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:003][993]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:011][994]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:020][995]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:028][996]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:036][997]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:045][998]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:053][999]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:061][  0]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:070][  1]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:077][  2]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:086][  3]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:094][  4]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:103][  5]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:111][  6]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:119][  7]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:128][  8]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:136][  9]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:145][ 10]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:152][ 11]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:161][ 12]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:170][ 13]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:178][ 14]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:187][ 15]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:196][ 16]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:203][ 17]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:212][ 18]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:221][ 19]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:228][ 20]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:237][ 21]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:245][ 22]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:254][ 23]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:261][ 24]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:270][ 25]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:278][ 26]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:287][ 27]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:295][ 28]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:302][ 29]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:311][ 30]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:320][ 31]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:328][ 32]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:336][ 33]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:344][ 34]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:353][ 35]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:361][ 36]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:369][ 37]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:378][ 38]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:386][ 39]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:394][ 40]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:402][ 41]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:411][ 42]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:420][ 43]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:428][ 44]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:436][ 45]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:445][ 46]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:453][ 47]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:461][ 48]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:470][ 49]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:479][ 50]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:487][ 51]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:495][ 52]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:504][ 53]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:512][ 54]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:520][ 55]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:528][ 56]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:537][ 57]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:545][ 58]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:553][ 59]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:561][ 60]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:570][ 61]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:578][ 62]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:587][ 63]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:595][ 64]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:602][ 65]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:611][ 66]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:619][ 67]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:628][ 68]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:636][ 69]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:645][ 70]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:654][ 71]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:662][ 72]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:670][ 73]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:678][ 74]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:686][ 75]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:694][ 76]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:703][ 77]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:711][ 78]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:719][ 79]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:728][ 80]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:736][ 81]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:745][ 82]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:752][ 83]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:761][ 84]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:770][ 85]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:778][ 86]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:786][ 87]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:795][ 88]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:803][ 89]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:811][ 90]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:820][ 91]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:828][ 92]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:836][ 93]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:844][ 94]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:852][ 95]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:861][ 96]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:869][ 97]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:878][ 98]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:886][ 99]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:895][100]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:903][101]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:911][102]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:919][103]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:928][104]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:936][105]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:945][106]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:952][107]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:961][108]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:970][109]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:978][110]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:986][111]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.40:994][112]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:003][113]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:011][114]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:019][115]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:028][116]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:036][117]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:045][118]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:053][119]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:062][120]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:070][121]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:077][122]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:086][123]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:094][124]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:103][125]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:111][126]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:120][127]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:128][128]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:136][129]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:145][130]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:152][131]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:162][132]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:170][133]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:178][134]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:187][135]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:195][136]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:203][137]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:211][138]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:220][139]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:228][140]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:236][141]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:244][142]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:252][143]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:261][144]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:269][145]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:278][146]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:287][147]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:294][148]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:302][149]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:311][150]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:319][151]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:328][152]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:336][153]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:345][154]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:352][155]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:361][156]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:369][157]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:378][158]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:386][159]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:395][160]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:403][161]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:411][162]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:420][163]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:428][164]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:437][165]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:444][166]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:453][167]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:462][168]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:469][169]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:478][170]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:486][171]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:495][172]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:503][173]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:511][174]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:520][175]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:528][176]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:536][177]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:545][178]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:552][179]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:561][180]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:570][181]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:578][182]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:586][183]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:595][184]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:603][185]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:611][186]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:619][187]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:628][188]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:636][189]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:644][190]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:652][191]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:661][192]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:670][193]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:678][194]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:686][195]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:695][196]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:703][197]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:711][198]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:720][199]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:728][200]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:736][201]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:745][202]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:753][203]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:762][204]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:769][205]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:778][206]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:786][207]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:794][208]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:802][209]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:811][210]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:819][211]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:828][212]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:836][213]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:844][214]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:852][215]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:861][216]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:869][217]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:878][218]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:886][219]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:895][220]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:903][221]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:911][222]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:919][223]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:927][224]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:936][225]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:944][226]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:953][227]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:961][228]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:969][229]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:977][230]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:986][231]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.41:994][232]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:003][233]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:011][234]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:020][235]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:028][236]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:036][237]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:045][238]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:052][239]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:061][240]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:069][241]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:078][242]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:086][243]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:095][244]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:103][245]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:111][246]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:119][247]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:128][248]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:136][249]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:145][250]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:152][251]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:161][252]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:170][253]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:178][254]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:186][255]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:195][256]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:202][257]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:211][258]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:220][259]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:228][260]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:236][261]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:244][262]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:252][263]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:261][264]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:269][265]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:278][266]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:286][267]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:294][268]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:302][269]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:311][270]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:319][271]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:328][272]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:336][273]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:345][274]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:353][275]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:361][276]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:369][277]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:378][278]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:386][279]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:395][280]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:402][281]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:411][282]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:419][283]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:428][284]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:436][285]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:445][286]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:453][287]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:461][288]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:470][289]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:478][290]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:487][291]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:495][292]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:503][293]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:511][294]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:520][295]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:528][296]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:536][297]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:544][298]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:552][299]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:561][300]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:570][301]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:578][302]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:586][303]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:595][304]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:603][305]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:611][306]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:620][307]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:628][308]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:637][309]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:645][310]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:652][311]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:662][312]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:670][313]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:678][314]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:687][315]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:695][316]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:702][317]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:711][318]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:720][319]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:729][320]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:736][321]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:745][322]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:752][323]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:761][324]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:770][325]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:778][326]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:787][327]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:794][328]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:803][329]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:811][330]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:819][331]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:828][332]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:836][333]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:845][334]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:854][335]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:862][336]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:870][337]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:878][338]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:887][339]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:895][340]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:902][341]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:912][342]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:920][343]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:928][344]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:937][345]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:945][346]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:952][347]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:962][348]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:970][349]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:978][350]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:987][351]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.42:995][352]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:002][353]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:011][354]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:020][355]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:028][356]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:037][357]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:045][358]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:053][359]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:062][360]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:070][361]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:078][362]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:086][363]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:096][364]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:104][365]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:112][366]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:120][367]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:129][368]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:136][369]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:145][370]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:153][371]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:161][372]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:170][373]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:179][374]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:187][375]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:195][376]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:202][377]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:212][378]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:220][379]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:228][380]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:237][381]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:245][382]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:253][383]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:261][384]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:270][385]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:278][386]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:287][387]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:295][388]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:303][389]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:311][390]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:320][391]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:328][392]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:336][393]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:345][394]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:352][395]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:362][396]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:370][397]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:378][398]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:386][399]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:394][400]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:403][401]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:411][402]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:420][403]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:428][404]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:437][405]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:445][406]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:452][407]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:462][408]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:470][409]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:479][410]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:486][411]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:495][412]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:503][413]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:511][414]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:520][415]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:528][416]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:536][417]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:545][418]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:552][419]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:561][420]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:570][421]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:578][422]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:586][423]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:595][424]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:603][425]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:612][426]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:620][427]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:628][428]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:637][429]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:645][430]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:652][431]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:662][432]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:670][433]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:678][434]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:686][435]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:695][436]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:703][437]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:711][438]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:720][439]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:728][440]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:736][441]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:745][442]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:752][443]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:761][444]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:770][445]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:777][446]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:786][447]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:795][448]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:802][449]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:811][450]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:819][451]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:828][452]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:836][453]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:845][454]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:852][455]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:861][456]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:870][457]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:878][458]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:886][459]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:894][460]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:903][461]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:911][462]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:920][463]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Chasing
+[2025.10.23-10.27.43:921][463]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Player Lost, BB Cleared
+[2025.10.23-10.27.43:928][464]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.43:936][465]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.43:945][466]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.43:953][467]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.43:961][468]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.43:970][469]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.43:978][470]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.43:986][471]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.43:994][472]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:002][473]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:011][474]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:020][475]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:027][476]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:036][477]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:045][478]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:053][479]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:062][480]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:070][481]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:078][482]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:086][483]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:094][484]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:103][485]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:111][486]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:120][487]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:128][488]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:136][489]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:145][490]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:152][491]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:161][492]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:170][493]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:178][494]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:187][495]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:195][496]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:202][497]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:212][498]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:220][499]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:228][500]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:237][501]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:245][502]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:252][503]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:261][504]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:270][505]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:278][506]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:286][507]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:295][508]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:303][509]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:311][510]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:320][511]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:328][512]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:336][513]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:344][514]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:352][515]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:361][516]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:369][517]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:378][518]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:386][519]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:394][520]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:402][521]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:412][522]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:420][523]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:428][524]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:436][525]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:445][526]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:453][527]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:461][528]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:470][529]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:478][530]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:487][531]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:495][532]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:502][533]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:512][534]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:520][535]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:528][536]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:537][537]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:545][538]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:554][539]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:561][540]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:570][541]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:578][542]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:586][543]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:595][544]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:603][545]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:611][546]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:620][547]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:628][548]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:637][549]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:645][550]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:653][551]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:662][552]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:670][553]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:679][554]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:687][555]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:695][556]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:704][557]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:712][558]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:720][559]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:728][560]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:737][561]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:745][562]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:752][563]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:761][564]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:770][565]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:779][566]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:786][567]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:795][568]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:802][569]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:812][570]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:820][571]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:828][572]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:836][573]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:845][574]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:853][575]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:862][576]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:869][577]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:878][578]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:887][579]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:894][580]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:903][581]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:911][582]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:920][583]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:928][584]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:936][585]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:945][586]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:953][587]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:961][588]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:970][589]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:978][590]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:986][591]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.44:994][592]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:003][593]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:011][594]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:020][595]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:028][596]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:036][597]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:044][598]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:053][599]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:062][600]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:069][601]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:078][602]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:086][603]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:094][604]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:103][605]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:111][606]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:120][607]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:128][608]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:136][609]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:145][610]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:153][611]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:162][612]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:169][613]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:178][614]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:186][615]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:195][616]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:203][617]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:212][618]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:219][619]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:228][620]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:237][621]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:245][622]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:253][623]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:261][624]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:270][625]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:278][626]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:286][627]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:294][628]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:303][629]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:312][630]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:320][631]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:328][632]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:336][633]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:345][634]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:353][635]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:362][636]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:370][637]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:378][638]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:386][639]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:395][640]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:403][641]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:411][642]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:420][643]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:428][644]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:436][645]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:445][646]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:453][647]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:461][648]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:470][649]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:477][650]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:486][651]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:495][652]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:502][653]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:511][654]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:519][655]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:528][656]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:536][657]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:545][658]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:553][659]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:561][660]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:570][661]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:578][662]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:586][663]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:594][664]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:603][665]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:611][666]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:620][667]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:627][668]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:636][669]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:644][670]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:653][671]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:661][672]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:670][673]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:678][674]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:686][675]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:695][676]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:702][677]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:712][678]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:719][679]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:728][680]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:736][681]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:745][682]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:753][683]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:761][684]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:770][685]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:778][686]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:787][687]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:794][688]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:803][689]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:811][690]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:819][691]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:828][692]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:836][693]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:844][694]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:853][695]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:861][696]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:870][697]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:878][698]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:886][699]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:895][700]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:902][701]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:912][702]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:920][703]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:928][704]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:936][705]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:945][706]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:953][707]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:961][708]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:970][709]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:977][710]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:986][711]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.45:994][712]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:003][713]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:011][714]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:020][715]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:028][716]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:037][717]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:045][718]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:052][719]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:061][720]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:070][721]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:093][722]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:098][723]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:106][724]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:117][725]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:122][726]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:131][727]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:140][728]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:148][729]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:156][730]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:164][731]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:173][732]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:181][733]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:190][734]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:198][735]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:206][736]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:214][737]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:222][738]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:231][739]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:240][740]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:248][741]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:257][742]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:265][743]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:272][744]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:281][745]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:289][746]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:298][747]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:306][748]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:315][749]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:323][750]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:331][751]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:340][752]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:348][753]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:356][754]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:364][755]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:372][756]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:381][757]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:389][758]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:398][759]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:406][760]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:415][761]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:423][762]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:431][763]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:440][764]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:448][765]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:456][766]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:464][767]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:472][768]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:481][769]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:490][770]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:498][771]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:506][772]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:515][773]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:522][774]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:532][775]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:540][776]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:548][777]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:556][778]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:565][779]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:572][780]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:581][781]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:590][782]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:598][783]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:607][784]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:615][785]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:623][786]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:631][787]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:640][788]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:648][789]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:656][790]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:665][791]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:673][792]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:681][793]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:690][794]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:698][795]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:706][796]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:715][797]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:723][798]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:731][799]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:740][800]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:748][801]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:756][802]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:765][803]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:773][804]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:781][805]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:790][806]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:798][807]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:806][808]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:814][809]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:822][810]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:831][811]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:840][812]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:848][813]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:856][814]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:865][815]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:872][816]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:881][817]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:890][818]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:898][819]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:906][820]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:915][821]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:923][822]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:931][823]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:939][824]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:948][825]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:956][826]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:965][827]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:973][828]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:981][829]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:990][830]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.46:998][831]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:006][832]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:015][833]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:024][834]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:032][835]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:039][836]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:048][837]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:057][838]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:065][839]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:073][840]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:081][841]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:090][842]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:098][843]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:106][844]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:114][845]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:123][846]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:132][847]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:140][848]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:148][849]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:156][850]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:165][851]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:173][852]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:182][853]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:189][854]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:198][855]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:206][856]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:214][857]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:222][858]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:231][859]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:240][860]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:248][861]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:257][862]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:265][863]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:273][864]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:282][865]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:290][866]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:298][867]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:306][868]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:315][869]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:322][870]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:332][871]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:340][872]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:348][873]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:356][874]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:365][875]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:373][876]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:381][877]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:390][878]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:398][879]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:407][880]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:415][881]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:423][882]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:431][883]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:439][884]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:448][885]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:456][886]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:465][887]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:473][888]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:481][889]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:490][890]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:498][891]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:507][892]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:515][893]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:523][894]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:531][895]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:540][896]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:548][897]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:556][898]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:565][899]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:572][900]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:581][901]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:589][902]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:598][903]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:606][904]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:615][905]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:623][906]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:631][907]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:640][908]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:648][909]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:656][910]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:664][911]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:675][912]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:684][913]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:693][914]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:701][915]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:709][916]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:717][917]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:726][918]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:734][919]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:742][920]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:751][921]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:759][922]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:768][923]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:776][924]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:784][925]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:792][926]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:801][927]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:809][928]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:817][929]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:826][930]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:834][931]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:843][932]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:850][933]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:859][934]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:867][935]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:876][936]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:884][937]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:892][938]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:901][939]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:910][940]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:917][941]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:926][942]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:934][943]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:943][944]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:951][945]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:960][946]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:967][947]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:976][948]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:984][949]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.47:993][950]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:001][951]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:009][952]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:017][953]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:026][954]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:034][955]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:042][956]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:050][957]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:059][958]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:067][959]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:076][960]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:084][961]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:092][962]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:101][963]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:110][964]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:118][965]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:125][966]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:134][967]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:143][968]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:150][969]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:159][970]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:167][971]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:176][972]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:184][973]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:192][974]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:201][975]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:209][976]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:217][977]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:226][978]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:235][979]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:243][980]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:251][981]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:260][982]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:267][983]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:276][984]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:284][985]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:292][986]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:300][987]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:309][988]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:318][989]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:326][990]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:334][991]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:342][992]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:351][993]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:360][994]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:367][995]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:376][996]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:384][997]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:393][998]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:400][999]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:409][  0]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:417][  1]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:425][  2]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:434][  3]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:443][  4]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:451][  5]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:458][  6]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:467][  7]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:476][  8]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:484][  9]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:492][ 10]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:501][ 11]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:509][ 12]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:517][ 13]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:526][ 14]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:534][ 15]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:542][ 16]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:551][ 17]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:559][ 18]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:567][ 19]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:577][ 20]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:585][ 21]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:593][ 22]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:602][ 23]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:610][ 24]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:618][ 25]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:627][ 26]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:635][ 27]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:644][ 28]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:652][ 29]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:664][ 30]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:673][ 31]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:682][ 32]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:691][ 33]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:698][ 34]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:707][ 35]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:716][ 36]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:726][ 37]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:734][ 38]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:743][ 39]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:751][ 40]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:759][ 41]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:768][ 42]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:776][ 43]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:784][ 44]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:793][ 45]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:801][ 46]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:810][ 47]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:819][ 48]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:829][ 49]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:838][ 50]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:846][ 51]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:854][ 52]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:863][ 53]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:871][ 54]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:880][ 55]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:888][ 56]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:897][ 57]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:905][ 58]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:913][ 59]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:922][ 60]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:930][ 61]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:939][ 62]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:947][ 63]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:956][ 64]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:966][ 65]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:974][ 66]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:984][ 67]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:992][ 68]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.48:999][ 69]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:011][ 70]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:020][ 71]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:028][ 72]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:038][ 73]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:046][ 74]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:054][ 75]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:062][ 76]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:070][ 77]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:079][ 78]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:087][ 79]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:096][ 80]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:106][ 81]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:114][ 82]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:122][ 83]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:130][ 84]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:139][ 85]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:147][ 86]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:156][ 87]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:164][ 88]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:173][ 89]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:181][ 90]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:190][ 91]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:198][ 92]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:206][ 93]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:215][ 94]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:223][ 95]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:232][ 96]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:240][ 97]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:249][ 98]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:257][ 99]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:265][100]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:274][101]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:282][102]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:290][103]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:299][104]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:307][105]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:315][106]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:323][107]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:332][108]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:341][109]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:348][110]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:359][111]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:367][112]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:376][113]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:384][114]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:394][115]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:403][116]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:411][117]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:420][118]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:427][119]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:437][120]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:445][121]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:454][122]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:462][123]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:473][124]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:482][125]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:490][126]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:498][127]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:507][128]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:515][129]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:522][130]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:532][131]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:540][132]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:548][133]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:557][134]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:565][135]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:573][136]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:581][137]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:590][138]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:598][139]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:607][140]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:615][141]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:624][142]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:634][143]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:642][144]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:651][145]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:660][146]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:668][147]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:676][148]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:685][149]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:693][150]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:701][151]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:709][152]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:718][153]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:726][154]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:734][155]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:742][156]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:751][157]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:760][158]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:767][159]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:776][160]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:784][161]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:792][162]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:803][163]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:811][164]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:820][165]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:830][166]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:839][167]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:848][168]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:858][169]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:868][170]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:877][171]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:885][172]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:892][173]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:902][174]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:910][175]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:918][176]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:927][177]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:935][178]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:943][179]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:951][180]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:959][181]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:968][182]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:977][183]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:985][184]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.49:993][185]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:002][186]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:010][187]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:018][188]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:026][189]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:035][190]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:043][191]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:052][192]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:060][193]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:068][194]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:079][195]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:088][196]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:096][197]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:104][198]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:114][199]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:122][200]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:130][201]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:139][202]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:147][203]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:155][204]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:164][205]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:172][206]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:180][207]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:189][208]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:197][209]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:205][210]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:214][211]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:222][212]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:243][213]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:253][214]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:263][215]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:271][216]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:281][217]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:290][218]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:299][219]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:307][220]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:316][221]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:324][222]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:332][223]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:340][224]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:351][225]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:359][226]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:367][227]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:376][228]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:384][229]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:393][230]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:402][231]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:410][232]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:418][233]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:427][234]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:437][235]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:448][236]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Stopping
+[2025.10.23-10.27.50:500][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.23-10.27.50:500][236]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.23-10.27.50:500][236]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.10.23-10.27.50:500][236]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.23-10.27.50:500][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.23-10.27.50:500][236]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.10.23-10.27.50:501][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.23-10.27.50:508][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.23-10.27.50:520][236]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.23-10.27.50:520][236]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.23-10.27.50:520][236]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.10.23-10.27.50:522][236]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.10.23-10.27.50:527][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.23-10.27.50:529][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.10.23-10.27.50:605][237]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.10.23-10.30.35:397][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.23-10.30.35:437][121]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Blueprints/BaseAIController_BP] ([2] browsable assets)...
+[2025.10.23-10.30.35:437][121]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Blueprints/BaseAIController_BP]
+[2025.10.23-10.30.35:447][121]LogSavePackage: Moving output files for package: /Game/AI/Blueprints/BaseAIController_BP
+[2025.10.23-10.30.35:447][121]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/BaseAIController_BPF8DB0C3643A0301CC2B071A49C030F7E.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAIController_BP.uasset'
+[2025.10.23-10.30.35:458][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.264 ms (total: 1.53 sec)
+[2025.10.23-10.30.35:498][121]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.23-10.30.35:498][121]LogContentValidation: Enabled validators:
+[2025.10.23-10.30.35:498][121]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.23-10.30.35:498][121]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.23-10.30.35:498][121]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.23-10.30.35:498][121]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.23-10.30.35:498][121]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.23-10.30.35:498][121]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.23-10.30.35:498][121]AssetCheck: /Game/AI/Blueprints/BaseAIController_BP Validating asset
+[2025.10.23-10.30.36:741][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.23-10.30.36:798][259]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Blueprints/BaseAIController_BP] ([2] browsable assets)...
+[2025.10.23-10.30.36:798][259]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Blueprints/BaseAIController_BP]
+[2025.10.23-10.30.36:808][259]LogSavePackage: Moving output files for package: /Game/AI/Blueprints/BaseAIController_BP
+[2025.10.23-10.30.36:808][259]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/BaseAIController_BP02AE85A74F31735520BCEF81F4361C6E.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAIController_BP.uasset'
+[2025.10.23-10.30.36:814][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.011 ms (total: 1.60 sec)
+[2025.10.23-10.30.36:848][259]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.23-10.30.36:848][259]LogContentValidation: Enabled validators:
+[2025.10.23-10.30.36:848][259]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.23-10.30.36:848][259]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.23-10.30.36:848][259]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.23-10.30.36:848][259]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.23-10.30.36:848][259]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.23-10.30.36:848][259]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.23-10.30.36:848][259]AssetCheck: /Game/AI/Blueprints/BaseAIController_BP Validating asset
