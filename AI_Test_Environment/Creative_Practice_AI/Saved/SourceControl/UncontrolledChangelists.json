@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAI_BP.uasset",
+				"C:/Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAIController_BP.uasset",
 				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAIController_BP.uasset",
 				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/BehaviourTrees/BaseAI_BB.uasset",
 				"T:/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAI_BP.uasset",
