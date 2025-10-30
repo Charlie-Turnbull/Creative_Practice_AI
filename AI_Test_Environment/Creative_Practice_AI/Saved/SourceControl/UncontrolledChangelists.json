@@ -7,15 +7,20 @@
 			"files": [
 				"C:/Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAI_BP.uasset",
 				"C:/Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAIController_BP.uasset",
-				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAIController_BP.uasset",
-				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/BehaviourTrees/BaseAI_BB.uasset",
 				"T:/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAI_BP.uasset",
 				"T:/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAIController_BP.uasset",
 				"T:/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/BehaviourTrees/BaseAIBehaviour_BT.uasset",
 				"T:/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/G9/C88XVIMI6HE88Q2CXPXI0N.uasset",
 				"T:/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/ZM/JVRTK33NSOS5LODD4CV5UN.uasset",
 				"T:/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/Q2/93GSN1GKUTPDCNNHV27HO5.uasset",
-				"T:/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/BehaviourTrees/BaseAI_BB.uasset"
+				"T:/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/BehaviourTrees/BaseAI_BB.uasset",
+				"C:/Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/G9/C88XVIMI6HE88Q2CXPXI0N.uasset",
+				"C:/Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/Characters/Mannequins/Anims/Unarmed/BS_Idle_Walk_Run.uasset",
+				"C:/Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/BehaviourTrees/BaseAI_BB.uasset",
+				"C:/Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/BehaviourTrees/FindPatrolLocation_BTT.uasset",
+				"C:/Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/BehaviourTrees/BaseAIBehaviour_BT.uasset",
+				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAIController_BP.uasset",
+				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/BehaviourTrees/BaseAI_BB.uasset"
 			]
 		}
 	]
