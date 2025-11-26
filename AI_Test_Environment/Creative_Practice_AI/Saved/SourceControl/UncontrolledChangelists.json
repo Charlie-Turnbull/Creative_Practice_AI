@@ -5,6 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAIController_BP.uasset",
+				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/BehaviourTrees/BaseAI_BB.uasset",
+				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/BehaviourTrees/BaseAIBehaviour_BT.uasset",
+				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/BehaviourTrees/FindPatrolLocation_BTT.uasset",
+				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/CreativePractice/Animations/BaseAI_AnimBP.uasset",
+				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/CreativePractice/BehaviourTrees/FindPatrolLocation_BTT.uasset",
+				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/CreativePractice/BehaviourTrees/ResetAlert_BTT.uasset",
+				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/CreativePractice/Blueprints/BaseAIController_BP.uasset",
+				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/CreativePractice/Blueprints/BaseAI_BP.uasset",
+				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAI_BP.uasset",
+				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/CreativePractice/BehaviourTrees/BaseAI_BB.uasset",
+				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/CreativePractice/BehaviourTrees/BaseAIBehaviour_BT.uasset",
+				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/BehaviourTrees/ResetAlert_BTT.uasset",
+				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Animations/BaseAI_AnimBP.uasset",
+				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/CreativePractice/Animations/LookAround_UE.uasset",
 				"C:/Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAI_BP.uasset",
 				"C:/Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAIController_BP.uasset",
 				"T:/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAI_BP.uasset",
@@ -20,11 +35,7 @@
 				"C:/Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/BehaviourTrees/FindPatrolLocation_BTT.uasset",
 				"C:/Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/BehaviourTrees/BaseAIBehaviour_BT.uasset",
 				"C:/Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/BehaviourTrees/ResetAlert_BTT.uasset",
-				"C:/Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Animations/BaseAI_AnimBP.uasset",
-				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Blueprints/BaseAIController_BP.uasset",
-				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/BehaviourTrees/BaseAI_BB.uasset",
-				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/BehaviourTrees/BaseAIBehaviour_BT.uasset",
-				"E:/Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/BehaviourTrees/FindPatrolLocation_BTT.uasset"
+				"C:/Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/AI/Animations/BaseAI_AnimBP.uasset"
 			]
 		}
 	]
