@@ -1880,3 +1880,882 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.27-10.40.06:952][183]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.27-10.40.06:952][183]AssetCheck: /Game/CreativePractice/Animations/LookAround_UE1_Montage Validating asset
 [2025.11.27-10.40.06:981][183]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.27-10.53.45:492][374]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.11.27-10.53.49:114][738]LogContentBrowser: Deferred new asset file creation: BaseAI_BP_Child
+[2025.11.27-10.53.49:123][738]LogContentBrowser: Creating deferred item: BaseAI_BP_Child
+[2025.11.27-10.53.49:137][739]LogContentBrowser: Renaming the item being created (Deferred Item: BaseAI_BP_Child).
+[2025.11.27-10.54.04:169][492]LogContentBrowser: Attempting asset rename: BaseAI_BP_Child -> RunAwayAI_BP
+[2025.11.27-10.54.04:173][492]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/CreativePractice/Blueprints/RunAwayAI_BP.
+[2025.11.27-10.54.04:173][492]LogContentBrowser: End creating deferred item BaseAI_BP_Child
+[2025.11.27-10.54.04:174][492]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.11.27-10.54.05:248][588]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CreativePractice/Blueprints/RunAwayAI_BP.RunAwayAI_BP
+[2025.11.27-10.54.05:248][588]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.11.27-10.54.22:799][557]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-10.54.22:799][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-10.54.22:835][557]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-10.54.22:835][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-10.54.22:839][557]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-10.54.22:839][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-10.54.22:886][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.11.27-10.54.23:740][653]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-10.54.23:741][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-10.54.23:757][653]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-10.54.23:757][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-10.54.23:792][653]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-10.54.23:792][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-10.54.23:818][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: ================================================
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Total job queries 18,360, among them cache hits 4,771 (25.99%), DDC hits 12,363 (67.34%), Duplicates 639 (3.48%)
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Tracking 12,950 distinct input hashes that result in 11,861 distinct outputs (91.59%)
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: RAM used: 158.37 MiB of 3.20 GiB budget. Usage: 4.83%
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Shaders Compiled: 587
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Jobs assigned 587, completed 587 (100%)
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Average time worker was idle: 10.64 s
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Time job spent in pending queue: average 3.09 s, longest 27.42 s
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Job execution time: average 4.11 s, max 20.72 s
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Job life time (pending + execution): average 7.20 s, max 31.77
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Shader code size: total 9.385 MiB, numShaders 610, average 15.755 KiB, min 2.246 KiB, max 55.505 KiB
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 86.80 s
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.92%
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Jobs were issued in 210 batches (only local compilation was used), average 2.80 jobs/batch
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Average processing rate: 6.76 jobs/sec
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Total thread time: 719.17 s
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Total thread preprocess time: 248.774 s
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Percentage time preprocessing: 34.59%
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Effective parallelization: 8.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.690461
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display:                          FPathTracingVolumetricCloudMaterial (compiled    1 times, average 13.96 sec, max 13.96 sec, min 13.96 sec)
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display:                      FPathTracingBuildCloudAccelerationMapCS (compiled    1 times, average 11.52 sec, max 11.52 sec, min 11.52 sec)
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display:                  FRayTracedTranslucencyHardwareRayTracingRGS (compiled    4 times, average 5.38 sec, max 5.40 sec, min 5.35 sec)
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display:                                     FLumenInitialSamplingRGS (compiled    1 times, average 5.16 sec, max 5.16 sec, min 5.16 sec)
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS (compiled   80 times, average 3.51 sec, max 6.22 sec, min 1.23 sec)
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 39.09% of total time (compiled   80 times, average 3.51 sec, max 6.22 sec, min 1.23 sec)
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.91% of total time (compiled   50 times, average 1.43 sec, max 7.83 sec, min 0.21 sec)
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.51% of total time (compiled   23 times, average 2.35 sec, max 10.97 sec, min 0.61 sec)
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 3.99% of total time (compiled   12 times, average 2.39 sec, max 15.23 sec, min 0.76 sec)
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display:                  FRayTracedTranslucencyHardwareRayTracingRGS - 2.99% of total time (compiled    4 times, average 5.38 sec, max 5.40 sec, min 5.35 sec)
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: === Material stats ===
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Materials Translated:    148
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Material Total Translate Time: 0.25 s
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Material Translation Only: 0.04 s (17%)
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.11.27-10.54.40:070][598]LogShaderCompilers: Display: ================================================
+[2025.11.27-10.55.08:240][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.11.27-10.55.14:332][640]LogPSOHitching: Encountered 250 PSO creation hitches so far (65 graphics, 185 compute). 0 of them were precached.
+[2025.11.27-10.55.20:830][327]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CreativePractice/Blueprints/RunAwayAI_BP.RunAwayAI_BP_C
+[2025.11.27-10.55.20:830][327]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CreativePractice/Blueprints/RunAwayAI_BP.RunAwayAI_BP_C
+[2025.11.27-10.55.20:831][327]LogActorFactory: Actor Factory spawned Blueprint /Game/CreativePractice/Blueprints/RunAwayAI_BP.RunAwayAI_BP as actor: RunAwayAI_BP_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.RunAwayAI_BP_C_0
+[2025.11.27-10.55.20:832][327]LogActorFactory: Actor Factory spawned Blueprint /Game/CreativePractice/Blueprints/RunAwayAI_BP.RunAwayAI_BP as actor: RunAwayAI_BP_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.RunAwayAI_BP_C_0
+[2025.11.27-10.55.20:837][328]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.11.27-10.55.21:738][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.11.27-10.55.21:741][431]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.11.27-10.55.21:745][431]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CreativePractice/Blueprints/RunAwayAI_BP.RunAwayAI_BP_C
+[2025.11.27-10.55.21:745][431]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CreativePractice/Blueprints/RunAwayAI_BP.RunAwayAI_BP_C
+[2025.11.27-10.55.21:750][431]LogActorFactory: Actor Factory spawned Blueprint /Game/CreativePractice/Blueprints/RunAwayAI_BP.RunAwayAI_BP as actor: RunAwayAI_BP_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.RunAwayAI_BP_C_UAID_30138B6B5FB922A602_1467357775
+[2025.11.27-10.55.21:751][431]LogActorFactory: Actor Factory spawned Blueprint /Game/CreativePractice/Blueprints/RunAwayAI_BP.RunAwayAI_BP as actor: RunAwayAI_BP_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.RunAwayAI_BP_C_UAID_30138B6B5FB922A602_1467357775
+[2025.11.27-10.55.25:481][856]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.27-10.55.25:486][856]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.27-10.55.25:486][856]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.11.27-10.55.25:487][856]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 684 us (total: 2.242 ms)
+[2025.11.27-10.55.25:492][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.27-10.55.25:531][856]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.11.27-10.55.25:535][856]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.27-10.55.25:536][856]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 936 us (total: 3.390 ms)
+[2025.11.27-10.55.25:536][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005411s)
+[2025.11.27-10.55.25:536][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.005441s)
+[2025.11.27-10.55.25:552][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.11.27-10.55.25:555][856]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.11.27-10.55.25:556][856]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.27-10.55.25:556][856]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.27-10.55.25:556][856]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.27-10.55.25:556][856]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.27-10.55.25:557][856]LogWorldPartition: Display: WorldPartition initialize took 1.142 ms (total: 249.889 ms)
+[2025.11.27-10.55.25:557][856]LogPlayLevel: PIE: World Init took: (0.002698s)
+[2025.11.27-10.55.25:558][856]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.11.27-10.55.25:558][856]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.27-10.55.25:558][856]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.27-10.55.25:558][856]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.27-10.55.25:558][856]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.27-10.55.25:558][856]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.27-10.55.25:558][856]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.27-10.55.25:558][856]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.27-10.55.25:558][856]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.27-10.55.25:558][856]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.27-10.55.25:558][856]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.27-10.55.25:558][856]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.27-10.55.25:560][856]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.27-10.55.25:586][856]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.11.27-10.55.25:586][856]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.27-10.55.25:586][856]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.27-10.55.25:586][856]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.27-10.55.25:587][856]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.11.27-10.55.25:587][856]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.11.27-10.55.25:588][856]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.11.27-10.55.25:588][856]LogInit: FAudioDevice initialized with ID 5.
+[2025.11.27-10.55.25:588][856]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.11.27-10.55.25:588][856]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lvl_FirstPerson'.
+[2025.11.27-10.55.25:588][856]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.11.27-10.55.25:592][856]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.27-10.55.25:595][856]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.11.27-10.55.25
+[2025.11.27-10.55.25:596][856]LogWorld: Bringing up level for play took: 0.003517
+[2025.11.27-10.55.25:598][856]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.11.27-10.55.25:603][856]PIE: Server logged in
+[2025.11.27-10.55.25:605][856]PIE: Play in editor total start time 0.118 seconds.
+[2025.11.27-10.55.25:650][857]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.27-10.55.34:636][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.27-10.55.34:636][926]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.11.27-10.55.34:637][926]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.27-10.55.34:637][926]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-10.55.34:637][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-10.55.34:637][926]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.11.27-10.55.34:637][926]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.27-10.55.34:641][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-10.55.34:656][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.27-10.55.34:656][926]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.11.27-10.55.34:656][926]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.11.27-10.55.34:658][926]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.11.27-10.55.34:664][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.11.27-10.55.34:743][927]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.11.27-10.56.13:470][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.11.27-10.56.14:048][505]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.27-10.56.14:084][505]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CreativePractice/Blueprints/RunAwayAI_BP] ([2] browsable assets)...
+[2025.11.27-10.56.14:091][505]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CreativePractice/Blueprints/RunAwayAI_BP.RunAwayAI_BP]
+[2025.11.27-10.56.14:091][505]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.11.27-10.56.14:106][505]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/CreativePractice/Blueprints/RunAwayAI_BP.RunAwayAI_BP_C]
+[2025.11.27-10.56.14:106][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/Blueprints/RunAwayAI_BP]
+[2025.11.27-10.56.14:110][505]LogSavePackage: Moving output files for package: /Game/CreativePractice/Blueprints/RunAwayAI_BP
+[2025.11.27-10.56.14:110][505]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/RunAwayAI_BP085530C9436F883257A8568E241932FE.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/CreativePractice/Blueprints/RunAwayAI_BP.uasset'
+[2025.11.27-10.56.14:112][505]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/CreativePractice/Blueprints/RunAwayAI_BP.
+[2025.11.27-10.56.14:118][505]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.901 ms (total: 186.768 ms)
+[2025.11.27-10.56.14:165][505]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.27-10.56.14:165][505]LogContentValidation: Enabled validators:
+[2025.11.27-10.56.14:165][505]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.27-10.56.14:165][505]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.27-10.56.14:165][505]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.27-10.56.14:165][505]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.27-10.56.14:165][505]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.27-10.56.14:165][505]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.27-10.56.14:165][505]AssetCheck: /Game/CreativePractice/Blueprints/RunAwayAI_BP Validating asset
+[2025.11.27-10.56.14:178][505]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.27-10.56.15:612][667]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.27-10.56.15:616][667]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.27-10.56.15:616][667]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.11.27-10.56.15:617][667]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 632 us (total: 2.874 ms)
+[2025.11.27-10.56.15:621][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.27-10.56.15:660][667]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.11.27-10.56.15:665][667]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.27-10.56.15:666][667]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 818 us (total: 4.209 ms)
+[2025.11.27-10.56.15:666][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005026s)
+[2025.11.27-10.56.15:666][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.005053s)
+[2025.11.27-10.56.15:682][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.11.27-10.56.15:687][667]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.11.27-10.56.15:688][667]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.27-10.56.15:688][667]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.27-10.56.15:688][667]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.27-10.56.15:688][667]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.27-10.56.15:689][667]LogWorldPartition: Display: WorldPartition initialize took 1.160 ms (total: 251.050 ms)
+[2025.11.27-10.56.15:689][667]LogPlayLevel: PIE: World Init took: (0.002566s)
+[2025.11.27-10.56.15:690][667]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.11.27-10.56.15:690][667]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.27-10.56.15:690][667]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.27-10.56.15:690][667]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.27-10.56.15:690][667]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.27-10.56.15:690][667]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.27-10.56.15:690][667]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.27-10.56.15:690][667]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.27-10.56.15:690][667]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.27-10.56.15:690][667]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.27-10.56.15:690][667]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.27-10.56.15:690][667]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.27-10.56.15:692][667]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.27-10.56.15:714][667]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.11.27-10.56.15:715][667]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.27-10.56.15:715][667]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.27-10.56.15:715][667]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.27-10.56.15:715][667]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.11.27-10.56.15:715][667]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.11.27-10.56.15:716][667]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.11.27-10.56.15:716][667]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.11.27-10.56.15:716][667]LogInit: FAudioDevice initialized with ID 6.
+[2025.11.27-10.56.15:716][667]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_FirstPerson'.
+[2025.11.27-10.56.15:716][667]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.11.27-10.56.15:721][667]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.27-10.56.15:724][667]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.11.27-10.56.15
+[2025.11.27-10.56.15:724][667]LogWorld: Bringing up level for play took: 0.003229
+[2025.11.27-10.56.15:726][667]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.11.27-10.56.15:730][667]PIE: Server logged in
+[2025.11.27-10.56.15:732][667]PIE: Play in editor total start time 0.115 seconds.
+[2025.11.27-10.56.15:773][668]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.27-10.56.21:957][406]LogBlueprintUserMessages: [BaseAIController_BP_C_1] Player Seen, BB Updated
+[2025.11.27-10.56.25:632][847]LogBlueprintUserMessages: [BaseAIController_BP_C_1] Player Lost, BB Cleared
+[2025.11.27-10.56.28:686][213]LogBlueprintUserMessages: [BaseAIController_BP_C_1] Player Seen, BB Updated
+[2025.11.27-10.56.30:468][427]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Player Seen, BB Updated
+[2025.11.27-10.56.34:444][904]LogBlueprintUserMessages: [BaseAIController_BP_C_1] Player Lost, BB Cleared
+[2025.11.27-10.56.35:077][980]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Player Lost, BB Cleared
+[2025.11.27-10.56.38:936][443]LogBlueprintUserMessages: [ResetAlert_BTT_C_0] Setting IsSearching to False
+[2025.11.27-10.56.39:570][519]LogBlueprintUserMessages: [ResetAlert_BTT_C_0] Setting IsSearching to False
+[2025.11.27-10.56.39:915][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.27-10.56.39:915][554]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.11.27-10.56.39:915][554]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.27-10.56.39:915][554]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-10.56.39:916][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-10.56.39:916][554]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.11.27-10.56.39:919][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.27-10.56.39:922][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-10.56.39:945][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.27-10.56.39:946][554]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.11.27-10.56.39:946][554]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.11.27-10.56.39:948][554]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.11.27-10.56.39:954][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.11.27-10.56.40:035][555]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2025.11.27-10.57.40:072][517]LogShaderCompilers: Display: ================================================
+[2025.11.27-10.57.40:072][517]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.27-10.57.40:072][517]LogShaderCompilers: Display: Total job queries 18,370, among them cache hits 4,775 (25.99%), DDC hits 12,364 (67.31%), Duplicates 639 (3.48%)
+[2025.11.27-10.57.40:072][517]LogShaderCompilers: Display: Tracking 12,956 distinct input hashes that result in 11,867 distinct outputs (91.59%)
+[2025.11.27-10.57.40:072][517]LogShaderCompilers: Display: RAM used: 158.40 MiB of 3.20 GiB budget. Usage: 4.83%
+[2025.11.27-10.57.40:072][517]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.27-10.57.40:072][517]LogShaderCompilers: Display: Shaders Compiled: 592
+[2025.11.27-10.57.40:072][517]LogShaderCompilers: Display: Jobs assigned 592, completed 592 (100%)
+[2025.11.27-10.57.40:072][517]LogShaderCompilers: Display: Average time worker was idle: 47.95 s
+[2025.11.27-10.57.40:072][517]LogShaderCompilers: Display: Time job spent in pending queue: average 3.06 s, longest 27.42 s
+[2025.11.27-10.57.40:072][517]LogShaderCompilers: Display: Job execution time: average 4.08 s, max 20.72 s
+[2025.11.27-10.57.40:072][517]LogShaderCompilers: Display: Job life time (pending + execution): average 7.14 s, max 31.77
+[2025.11.27-10.57.40:072][517]LogShaderCompilers: Display: Shader code size: total 9.419 MiB, numShaders 615, average 15.684 KiB, min 2.246 KiB, max 55.505 KiB
+[2025.11.27-10.57.40:072][517]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 87.31 s
+[2025.11.27-10.57.40:072][517]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.92%
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display: Jobs were issued in 215 batches (only local compilation was used), average 2.75 jobs/batch
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display: Average processing rate: 6.78 jobs/sec
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display: Total thread time: 720.271 s
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display: Total thread preprocess time: 248.86 s
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display: Percentage time preprocessing: 34.55%
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display: Effective parallelization: 8.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.687435
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display:                          FPathTracingVolumetricCloudMaterial (compiled    1 times, average 13.96 sec, max 13.96 sec, min 13.96 sec)
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display:                      FPathTracingBuildCloudAccelerationMapCS (compiled    1 times, average 11.52 sec, max 11.52 sec, min 11.52 sec)
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display:                  FRayTracedTranslucencyHardwareRayTracingRGS (compiled    4 times, average 5.38 sec, max 5.40 sec, min 5.35 sec)
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display:                                     FLumenInitialSamplingRGS (compiled    1 times, average 5.16 sec, max 5.16 sec, min 5.16 sec)
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS (compiled   80 times, average 3.51 sec, max 6.22 sec, min 1.23 sec)
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 39.03% of total time (compiled   80 times, average 3.51 sec, max 6.22 sec, min 1.23 sec)
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.97% of total time (compiled   52 times, average 1.38 sec, max 7.83 sec, min 0.21 sec)
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.50% of total time (compiled   23 times, average 2.35 sec, max 10.97 sec, min 0.61 sec)
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 3.98% of total time (compiled   12 times, average 2.39 sec, max 15.23 sec, min 0.76 sec)
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.02% of total time (compiled   50 times, average 0.43 sec, max 5.82 sec, min 0.13 sec)
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display: === Material stats ===
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display: Materials Translated:    148
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display: Material Total Translate Time: 0.25 s
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display: Material Translation Only: 0.04 s (17%)
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.11.27-10.57.40:073][517]LogShaderCompilers: Display: ================================================
+[2025.11.27-10.57.51:269][815]LogContentBrowser: Deferred new asset file creation: NewBehaviorTree
+[2025.11.27-10.57.51:275][815]LogContentBrowser: Creating deferred item: NewBehaviorTree
+[2025.11.27-10.57.51:284][816]LogContentBrowser: Renaming the item being created (Deferred Item: NewBehaviorTree).
+[2025.11.27-10.58.08:150][838]LogContentBrowser: Attempting asset rename: NewBehaviorTree -> RunningAI_BT
+[2025.11.27-10.58.08:151][838]LogContentBrowser: End creating deferred item NewBehaviorTree
+[2025.11.27-10.58.09:710][998]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/CreativePractice/BehaviourTrees/RunningAI_BT.RunningAI_BT
+[2025.11.27-10.59.09:940][963]LogStreaming: Display: FlushAsyncLoading(599): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.27-11.01.36:689][200]LogContentBrowser: Deferred new asset file creation: BaseAIController_BP_Child
+[2025.11.27-11.01.36:697][200]LogContentBrowser: Creating deferred item: BaseAIController_BP_Child
+[2025.11.27-11.01.36:709][201]LogContentBrowser: Renaming the item being created (Deferred Item: BaseAIController_BP_Child).
+[2025.11.27-11.01.54:787][ 35]LogContentBrowser: Attempting asset rename: BaseAIController_BP_Child -> RunAwayAIController_BP
+[2025.11.27-11.01.54:790][ 35]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/CreativePractice/Blueprints/RunAwayAIController_BP.
+[2025.11.27-11.01.54:791][ 35]LogContentBrowser: End creating deferred item BaseAIController_BP_Child
+[2025.11.27-11.01.56:001][139]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CreativePractice/Blueprints/RunAwayAIController_BP.RunAwayAIController_BP
+[2025.11.27-11.01.56:001][139]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2025.11.27-11.02.01:615][758]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-11.02.01:615][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-11.02.01:719][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.11.27-11.02.02:713][873]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-11.02.02:713][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-11.02.02:752][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.11.27-11.02.11:165][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.11.27-11.03.41:863][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.11.27-11.05.03:725][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.11.27-11.05.03:730][174]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/KD/UPPGVJ4Z90WWRY01EN2JLH_Auto2
+[2025.11.27-11.05.03:730][174]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/UPPGVJ4Z90WWRY01EN2JLH_Auto2274DE68049B4B7C6BDFC25A0D41518AE.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/KD/UPPGVJ4Z90WWRY01EN2JLH_Auto2.uasset'
+[2025.11.27-11.05.03:731][174]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.030
+[2025.11.27-11.05.03:731][174]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2025.11.27-11.05.03:732][174]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/Blueprints/BaseAI_BP] ([2] browsable assets)...
+[2025.11.27-11.05.03:732][174]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/Blueprints/BaseAI_BP]
+[2025.11.27-11.05.03:739][174]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CreativePractice/Blueprints/BaseAI_BP_Auto2
+[2025.11.27-11.05.03:739][174]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/BaseAI_BP_Auto2B29BAC7045A910DA32220AA2EEFFBF24.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/Autosaves/Game/CreativePractice/Blueprints/BaseAI_BP_Auto2.uasset'
+[2025.11.27-11.05.03:740][174]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/Blueprints/RunAwayAI_BP] ([2] browsable assets)...
+[2025.11.27-11.05.03:740][174]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/Blueprints/RunAwayAI_BP]
+[2025.11.27-11.05.03:742][174]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CreativePractice/Blueprints/RunAwayAI_BP_Auto2
+[2025.11.27-11.05.03:742][174]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/RunAwayAI_BP_Auto280D092CF459084DDCFC023A12170BE60.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/Autosaves/Game/CreativePractice/Blueprints/RunAwayAI_BP_Auto2.uasset'
+[2025.11.27-11.05.03:743][174]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/BehaviourTrees/RunningAI_BT] ([1] browsable assets)...
+[2025.11.27-11.05.03:743][174]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/BehaviourTrees/RunningAI_BT]
+[2025.11.27-11.05.03:745][174]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CreativePractice/BehaviourTrees/RunningAI_BT_Auto2
+[2025.11.27-11.05.03:745][174]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/RunningAI_BT_Auto26512295547CA99314140478378378A20.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/Autosaves/Game/CreativePractice/BehaviourTrees/RunningAI_BT_Auto2.uasset'
+[2025.11.27-11.05.03:745][174]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/Blueprints/RunAwayAIController_BP] ([2] browsable assets)...
+[2025.11.27-11.05.03:745][174]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/Blueprints/RunAwayAIController_BP]
+[2025.11.27-11.05.03:748][174]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CreativePractice/Blueprints/RunAwayAIController_BP_Auto2
+[2025.11.27-11.05.03:748][174]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/RunAwayAIController_BP_Auto23220EF5848E4C064243D0F8F662127ED.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/Autosaves/Game/CreativePractice/Blueprints/RunAwayAIController_BP_Auto2.uasset'
+[2025.11.27-11.05.03:749][174]LogFileHelpers: Auto-saving content packages took 0.018
+[2025.11.27-11.05.23:806][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.11.27-11.05.51:079][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.11.27-11.07.01:076][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.11.27-11.07.02:950][100]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.27-11.07.02:956][100]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.27-11.07.02:956][100]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.11.27-11.07.02:956][100]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 703 us (total: 3.578 ms)
+[2025.11.27-11.07.02:965][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.27-11.07.03:002][100]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.11.27-11.07.03:006][100]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.27-11.07.03:007][100]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 861 us (total: 5.070 ms)
+[2025.11.27-11.07.03:007][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005461s)
+[2025.11.27-11.07.03:007][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.005491s)
+[2025.11.27-11.07.03:024][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.11.27-11.07.03:027][100]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.11.27-11.07.03:029][100]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.27-11.07.03:029][100]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.27-11.07.03:029][100]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.27-11.07.03:029][100]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.27-11.07.03:030][100]LogWorldPartition: Display: WorldPartition initialize took 1.323 ms (total: 252.374 ms)
+[2025.11.27-11.07.03:030][100]LogPlayLevel: PIE: World Init took: (0.002936s)
+[2025.11.27-11.07.03:030][100]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.11.27-11.07.03:030][100]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.27-11.07.03:030][100]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.27-11.07.03:030][100]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.27-11.07.03:030][100]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.27-11.07.03:030][100]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.27-11.07.03:030][100]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.27-11.07.03:030][100]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.27-11.07.03:030][100]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.27-11.07.03:030][100]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.27-11.07.03:030][100]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.27-11.07.03:030][100]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.27-11.07.03:032][100]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.27-11.07.03:056][100]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.11.27-11.07.03:056][100]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.27-11.07.03:056][100]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.27-11.07.03:056][100]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.27-11.07.03:057][100]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.11.27-11.07.03:057][100]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.11.27-11.07.03:058][100]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.11.27-11.07.03:058][100]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.11.27-11.07.03:058][100]LogInit: FAudioDevice initialized with ID 7.
+[2025.11.27-11.07.03:058][100]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lvl_FirstPerson'.
+[2025.11.27-11.07.03:058][100]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.11.27-11.07.03:063][100]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.27-11.07.03:066][100]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.11.27-11.07.03
+[2025.11.27-11.07.03:067][100]LogWorld: Bringing up level for play took: 0.003758
+[2025.11.27-11.07.03:068][100]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2025.11.27-11.07.03:073][100]PIE: Server logged in
+[2025.11.27-11.07.03:075][100]PIE: Play in editor total start time 0.12 seconds.
+[2025.11.27-11.07.03:119][101]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.27-11.07.09:868][906]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Player Seen, BB Updated
+[2025.11.27-11.07.10:627][997]LogBlueprintUserMessages: [BaseAIController_BP_C_1] Player Seen, BB Updated
+[2025.11.27-11.07.12:427][213]LogBlueprintUserMessages: [BaseAIController_BP_C_1] Player Lost, BB Cleared
+[2025.11.27-11.07.12:451][216]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Player Lost, BB Cleared
+[2025.11.27-11.07.16:760][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.27-11.07.16:760][728]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.11.27-11.07.16:760][728]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.27-11.07.16:760][728]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-11.07.16:761][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-11.07.16:761][728]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.11.27-11.07.16:764][728]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.27-11.07.16:767][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-11.07.16:780][728]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.27-11.07.16:781][728]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.11.27-11.07.16:781][728]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.11.27-11.07.16:782][728]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.11.27-11.07.16:785][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.27-11.07.16:788][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.11.27-11.07.16:878][729]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.11.27-11.07.34:529][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.11.27-11.07.35:893][956]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.27-11.07.35:898][956]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.27-11.07.35:898][956]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.11.27-11.07.35:898][956]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 549 us (total: 4.127 ms)
+[2025.11.27-11.07.35:904][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.27-11.07.35:943][956]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.11.27-11.07.35:947][956]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.27-11.07.35:948][956]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 854 us (total: 5.924 ms)
+[2025.11.27-11.07.35:948][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005027s)
+[2025.11.27-11.07.35:948][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.005053s)
+[2025.11.27-11.07.35:964][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.11.27-11.07.35:965][956]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.11.27-11.07.35:967][956]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.27-11.07.35:967][956]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.27-11.07.35:967][956]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.27-11.07.35:967][956]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.27-11.07.35:968][956]LogWorldPartition: Display: WorldPartition initialize took 1.214 ms (total: 253.588 ms)
+[2025.11.27-11.07.35:968][956]LogPlayLevel: PIE: World Init took: (0.002726s)
+[2025.11.27-11.07.35:969][956]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.11.27-11.07.35:969][956]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.27-11.07.35:969][956]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.27-11.07.35:969][956]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.27-11.07.35:969][956]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.27-11.07.35:969][956]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.27-11.07.35:969][956]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.27-11.07.35:969][956]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.27-11.07.35:969][956]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.27-11.07.35:969][956]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.27-11.07.35:969][956]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.27-11.07.35:969][956]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.27-11.07.35:970][956]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.27-11.07.35:993][956]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.11.27-11.07.35:994][956]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.27-11.07.35:994][956]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.27-11.07.35:994][956]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.27-11.07.35:994][956]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.11.27-11.07.35:994][956]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.11.27-11.07.35:996][956]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.11.27-11.07.35:996][956]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.11.27-11.07.35:996][956]LogInit: FAudioDevice initialized with ID 8.
+[2025.11.27-11.07.35:996][956]LogAudio: Display: Audio Device (ID: 8) registered with world 'Lvl_FirstPerson'.
+[2025.11.27-11.07.35:996][956]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.11.27-11.07.35:999][956]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.27-11.07.36:002][956]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.11.27-11.07.36
+[2025.11.27-11.07.36:002][956]LogWorld: Bringing up level for play took: 0.003461
+[2025.11.27-11.07.36:004][956]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.11.27-11.07.36:009][956]PIE: Server logged in
+[2025.11.27-11.07.36:011][956]PIE: Play in editor total start time 0.113 seconds.
+[2025.11.27-11.07.36:050][957]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.27-11.07.39:647][384]LogBlueprintUserMessages: [BaseAIController_BP_C_1] Player Seen, BB Updated
+[2025.11.27-11.07.43:221][813]LogBlueprintUserMessages: [BaseAIController_BP_C_1] Player Lost, BB Cleared
+[2025.11.27-11.07.47:714][352]LogBlueprintUserMessages: [ResetAlert_BTT_C_0] Setting IsSearching to False
+[2025.11.27-11.07.47:756][357]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Player Seen, BB Updated
+[2025.11.27-11.07.52:822][965]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Player Lost, BB Cleared
+[2025.11.27-11.07.55:029][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.27-11.07.55:029][226]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.11.27-11.07.55:029][226]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.27-11.07.55:029][226]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-11.07.55:030][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-11.07.55:030][226]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.11.27-11.07.55:033][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.27-11.07.55:036][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-11.07.55:050][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.27-11.07.55:050][226]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.11.27-11.07.55:050][226]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2025.11.27-11.07.55:052][226]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2025.11.27-11.07.55:058][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.11.27-11.07.55:142][227]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.11.27-11.08.59:369][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.11.27-11.12.06:289][776]LogSlate: Window 'Save Asset As' being destroyed
+[2025.11.27-11.12.06:302][776]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CreativePractice/BehaviourTrees/RunAway_BTT.RunAway_BTT
+[2025.11.27-11.12.06:302][776]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.11.27-11.12.06:357][776]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/CreativePractice/BehaviourTrees/RunAway_BTT.
+[2025.11.27-11.13.11:595][178]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CreativePractice/BehaviourTrees/ResetAlert_BTT.ResetAlert_BTT
+[2025.11.27-11.13.11:595][178]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2025.11.27-11.13.16:562][716]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CreativePractice/BehaviourTrees/FindPatrolLocation_BTT.FindPatrolLocation_BTT
+[2025.11.27-11.13.16:562][716]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2025.11.27-11.16.06:122][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.11.27-11.16.37:202][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.11.27-11.16.37:204][ 10]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.021
+[2025.11.27-11.16.37:204][ 10]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/Blueprints/RunAwayAIController_BP] ([2] browsable assets)...
+[2025.11.27-11.16.37:204][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/Blueprints/RunAwayAIController_BP]
+[2025.11.27-11.16.37:208][ 10]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CreativePractice/Blueprints/RunAwayAIController_BP_Auto3
+[2025.11.27-11.16.37:208][ 10]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/RunAwayAIController_BP_Auto313A3F69343D395D5A8B194933C30814B.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/Autosaves/Game/CreativePractice/Blueprints/RunAwayAIController_BP_Auto3.uasset'
+[2025.11.27-11.16.37:209][ 10]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/BehaviourTrees/RunAway_BTT] ([2] browsable assets)...
+[2025.11.27-11.16.37:209][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/BehaviourTrees/RunAway_BTT]
+[2025.11.27-11.16.37:211][ 10]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CreativePractice/BehaviourTrees/RunAway_BTT_Auto3
+[2025.11.27-11.16.37:211][ 10]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/RunAway_BTT_Auto3A398BBA34A4B2EB96DDB08ACD10255C9.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/Autosaves/Game/CreativePractice/BehaviourTrees/RunAway_BTT_Auto3.uasset'
+[2025.11.27-11.16.37:212][ 10]LogFileHelpers: Auto-saving content packages took 0.008
+[2025.11.27-11.24.40:577][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.11.27-11.25.05:630][304]LogDerivedDataCache: C:/Users/cturnb300/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.27-11.27.23:259][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.11.27-11.27.23:263][  3]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.027
+[2025.11.27-11.27.23:263][  3]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/BehaviourTrees/RunAway_BTT] ([2] browsable assets)...
+[2025.11.27-11.27.23:263][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/BehaviourTrees/RunAway_BTT]
+[2025.11.27-11.27.23:267][  3]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CreativePractice/BehaviourTrees/RunAway_BTT_Auto4
+[2025.11.27-11.27.23:267][  3]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/RunAway_BTT_Auto4599113644783E7AD37172A9A03BF0860.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/Autosaves/Game/CreativePractice/BehaviourTrees/RunAway_BTT_Auto4.uasset'
+[2025.11.27-11.27.23:268][  3]LogFileHelpers: Auto-saving content packages took 0.005
+[2025.11.27-11.27.32:944][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.11.27-11.29.40:737][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.11.27-11.37.16:236][ 85]LogEditorTransaction: Undo Add Pin
+[2025.11.27-11.40.21:011][360]LogBlueprint: Error: [AssetLog] /Game/CreativePractice/BehaviourTrees/RunAway_BTT.RunAway_BTT: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2025.11.27-11.40.21:035][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.11.27-11.43.10:963][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.11.27-11.44.00:387][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.11.27-11.44.00:392][823]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/KD/UPPGVJ4Z90WWRY01EN2JLH_Auto5
+[2025.11.27-11.44.00:392][823]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/UPPGVJ4Z90WWRY01EN2JLH_Auto55C5877E644B707B5986DCC858E923321.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/KD/UPPGVJ4Z90WWRY01EN2JLH_Auto5.uasset'
+[2025.11.27-11.44.00:393][823]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.023
+[2025.11.27-11.44.00:393][823]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.023
+[2025.11.27-11.44.00:393][823]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/Blueprints/BaseAI_BP] ([2] browsable assets)...
+[2025.11.27-11.44.00:393][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/Blueprints/BaseAI_BP]
+[2025.11.27-11.44.00:399][823]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CreativePractice/Blueprints/BaseAI_BP_Auto5
+[2025.11.27-11.44.00:401][823]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/BaseAI_BP_Auto5C1E9CE364701D0B2068D329A397D0AFB.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/Autosaves/Game/CreativePractice/Blueprints/BaseAI_BP_Auto5.uasset'
+[2025.11.27-11.44.00:402][823]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CreativePractice/Animations/BaseAI_AnimBP] ([2] browsable assets)...
+[2025.11.27-11.44.00:402][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/Animations/BaseAI_AnimBP]
+[2025.11.27-11.44.00:409][823]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CreativePractice/Animations/BaseAI_AnimBP_Auto5
+[2025.11.27-11.44.00:410][823]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/BaseAI_AnimBP_Auto51CF42F804E61327F581417A11EF3253D.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/Autosaves/Game/CreativePractice/Animations/BaseAI_AnimBP_Auto5.uasset'
+[2025.11.27-11.44.00:411][823]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/Blueprints/BaseAIController_BP] ([2] browsable assets)...
+[2025.11.27-11.44.00:411][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/Blueprints/BaseAIController_BP]
+[2025.11.27-11.44.00:421][823]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CreativePractice/Blueprints/BaseAIController_BP_Auto5
+[2025.11.27-11.44.00:421][823]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/BaseAIController_BP_Auto5BB6CE4124FA5732776C3DCA647A40F25.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/Autosaves/Game/CreativePractice/Blueprints/BaseAIController_BP_Auto5.uasset'
+[2025.11.27-11.44.00:421][823]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/Blueprints/RunAwayAI_BP] ([2] browsable assets)...
+[2025.11.27-11.44.00:421][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/Blueprints/RunAwayAI_BP]
+[2025.11.27-11.44.00:424][823]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CreativePractice/Blueprints/RunAwayAI_BP_Auto5
+[2025.11.27-11.44.00:424][823]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/RunAwayAI_BP_Auto56AE870C8426CFE48BD2226860B4E4B3F.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/Autosaves/Game/CreativePractice/Blueprints/RunAwayAI_BP_Auto5.uasset'
+[2025.11.27-11.44.00:425][823]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/BehaviourTrees/RunningAI_BT] ([1] browsable assets)...
+[2025.11.27-11.44.00:425][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/BehaviourTrees/RunningAI_BT]
+[2025.11.27-11.44.00:426][823]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CreativePractice/BehaviourTrees/RunningAI_BT_Auto5
+[2025.11.27-11.44.00:426][823]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/RunningAI_BT_Auto5283DA601499F2A75181816BE5B61C4E8.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/Autosaves/Game/CreativePractice/BehaviourTrees/RunningAI_BT_Auto5.uasset'
+[2025.11.27-11.44.00:427][823]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/Blueprints/RunAwayAIController_BP] ([2] browsable assets)...
+[2025.11.27-11.44.00:427][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/Blueprints/RunAwayAIController_BP]
+[2025.11.27-11.44.00:429][823]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CreativePractice/Blueprints/RunAwayAIController_BP_Auto5
+[2025.11.27-11.44.00:429][823]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/RunAwayAIController_BP_Auto544A57A8D467128FA57D2ED8B79962C42.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/Autosaves/Game/CreativePractice/Blueprints/RunAwayAIController_BP_Auto5.uasset'
+[2025.11.27-11.44.00:430][823]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/BehaviourTrees/RunAway_BTT] ([2] browsable assets)...
+[2025.11.27-11.44.00:430][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/BehaviourTrees/RunAway_BTT]
+[2025.11.27-11.44.00:435][823]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CreativePractice/BehaviourTrees/RunAway_BTT_Auto5
+[2025.11.27-11.44.00:435][823]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/RunAway_BTT_Auto59AAE5A2F4C563C6FD44CAC9421925CB2.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/Autosaves/Game/CreativePractice/BehaviourTrees/RunAway_BTT_Auto5.uasset'
+[2025.11.27-11.44.00:435][823]LogFileHelpers: Auto-saving content packages took 0.043
+[2025.11.27-11.44.21:859][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.11.27-11.44.35:676][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.11.27-11.45.04:295][973]LogStreaming: Display: FlushAsyncLoading(600): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.27-11.45.04:296][973]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/CreativePractice/BehaviourTrees/RunAway_BTT (0x81285CE606AE54A9) - The package to load does not exist on disk or in the loader
+[2025.11.27-11.45.20:682][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.27-11.45.20:719][931]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/BehaviourTrees/RunningAI_BT] ([1] browsable assets)...
+[2025.11.27-11.45.20:719][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/BehaviourTrees/RunningAI_BT]
+[2025.11.27-11.45.20:721][931]LogSavePackage: Moving output files for package: /Game/CreativePractice/BehaviourTrees/RunningAI_BT
+[2025.11.27-11.45.20:721][931]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/RunningAI_BT2DA7E3FF4E16F4C584B5D58CAE634ABD.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/CreativePractice/BehaviourTrees/RunningAI_BT.uasset'
+[2025.11.27-11.45.20:727][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.976 ms (total: 231.744 ms)
+[2025.11.27-11.45.20:768][931]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.27-11.45.20:768][931]LogContentValidation: Enabled validators:
+[2025.11.27-11.45.20:768][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.27-11.45.20:768][931]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.27-11.45.20:768][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.27-11.45.20:768][931]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.27-11.45.20:768][931]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.27-11.45.20:768][931]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.27-11.45.20:768][931]AssetCheck: /Game/CreativePractice/BehaviourTrees/RunningAI_BT Validating asset
+[2025.11.27-11.45.20:780][932]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.27-11.45.22:139][ 63]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.27-11.45.22:144][ 63]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.27-11.45.22:144][ 63]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.11.27-11.45.22:145][ 63]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 727 us (total: 4.855 ms)
+[2025.11.27-11.45.22:154][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.27-11.45.22:154][ 63]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.11.27-11.45.22:159][ 63]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.27-11.45.22:160][ 63]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 811 us (total: 6.735 ms)
+[2025.11.27-11.45.22:160][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005296s)
+[2025.11.27-11.45.22:160][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.005324s)
+[2025.11.27-11.45.22:178][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.11.27-11.45.22:182][ 63]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.11.27-11.45.22:183][ 63]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.27-11.45.22:183][ 63]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.27-11.45.22:183][ 63]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.27-11.45.22:183][ 63]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.27-11.45.22:184][ 63]LogWorldPartition: Display: WorldPartition initialize took 1.083 ms (total: 254.672 ms)
+[2025.11.27-11.45.22:185][ 63]LogPlayLevel: PIE: World Init took: (0.002569s)
+[2025.11.27-11.45.22:185][ 63]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.11.27-11.45.22:185][ 63]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.27-11.45.22:185][ 63]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.27-11.45.22:185][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.27-11.45.22:185][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.27-11.45.22:185][ 63]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.27-11.45.22:185][ 63]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.27-11.45.22:185][ 63]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.27-11.45.22:185][ 63]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.27-11.45.22:185][ 63]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.27-11.45.22:185][ 63]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.27-11.45.22:185][ 63]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.27-11.45.22:188][ 63]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.27-11.45.22:212][ 63]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.11.27-11.45.22:212][ 63]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.27-11.45.22:212][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.27-11.45.22:212][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.27-11.45.22:213][ 63]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.11.27-11.45.22:213][ 63]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.11.27-11.45.22:214][ 63]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.11.27-11.45.22:214][ 63]LogInit: FAudioDevice initialized with ID 9.
+[2025.11.27-11.45.22:214][ 63]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.11.27-11.45.22:214][ 63]LogAudio: Display: Audio Device (ID: 9) registered with world 'Lvl_FirstPerson'.
+[2025.11.27-11.45.22:214][ 63]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.11.27-11.45.22:218][ 63]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.27-11.45.22:221][ 63]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.11.27-11.45.22
+[2025.11.27-11.45.22:222][ 63]LogWorld: Bringing up level for play took: 0.003578
+[2025.11.27-11.45.22:224][ 63]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2025.11.27-11.45.22:229][ 63]PIE: Server logged in
+[2025.11.27-11.45.22:230][ 63]PIE: Play in editor total start time 0.086 seconds.
+[2025.11.27-11.45.22:268][ 64]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.27-11.45.24:489][325]LogBlueprintUserMessages: [BaseAIController_BP_C_1] Player Seen, BB Updated
+[2025.11.27-11.45.27:022][629]LogBlueprintUserMessages: [BaseAIController_BP_C_1] Player Lost, BB Cleared
+[2025.11.27-11.45.30:736][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.27-11.45.30:736][ 69]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.11.27-11.45.30:736][ 69]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.27-11.45.30:736][ 69]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-11.45.30:737][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-11.45.30:737][ 69]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.11.27-11.45.30:740][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.27-11.45.30:742][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-11.45.30:761][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.27-11.45.30:761][ 69]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.11.27-11.45.30:761][ 69]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2025.11.27-11.45.30:763][ 69]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2025.11.27-11.45.30:769][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.11.27-11.45.30:860][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2025.11.27-11.45.44:513][684]LogStreaming: Display: FlushAsyncLoading(601): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.27-11.45.50:166][335]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.27-11.45.50:172][335]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.27-11.45.50:172][335]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.11.27-11.45.50:172][335]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 559 us (total: 5.414 ms)
+[2025.11.27-11.45.50:178][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.27-11.45.50:209][335]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.11.27-11.45.50:213][335]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.27-11.45.50:214][335]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.054 ms (total: 7.790 ms)
+[2025.11.27-11.45.50:214][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005599s)
+[2025.11.27-11.45.50:214][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.005628s)
+[2025.11.27-11.45.50:230][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.11.27-11.45.50:233][335]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.11.27-11.45.50:234][335]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.27-11.45.50:234][335]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.27-11.45.50:234][335]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.27-11.45.50:234][335]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.27-11.45.50:236][335]LogWorldPartition: Display: WorldPartition initialize took 1.129 ms (total: 255.801 ms)
+[2025.11.27-11.45.50:236][335]LogPlayLevel: PIE: World Init took: (0.002611s)
+[2025.11.27-11.45.50:237][335]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.11.27-11.45.50:237][335]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.27-11.45.50:237][335]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.27-11.45.50:237][335]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.27-11.45.50:237][335]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.27-11.45.50:237][335]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.27-11.45.50:237][335]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.27-11.45.50:237][335]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.27-11.45.50:237][335]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.27-11.45.50:237][335]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.27-11.45.50:237][335]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.27-11.45.50:237][335]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.27-11.45.50:238][335]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.27-11.45.50:261][335]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.11.27-11.45.50:261][335]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.27-11.45.50:261][335]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.27-11.45.50:261][335]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.27-11.45.50:261][335]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.11.27-11.45.50:261][335]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.11.27-11.45.50:263][335]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.11.27-11.45.50:263][335]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.11.27-11.45.50:263][335]LogInit: FAudioDevice initialized with ID 10.
+[2025.11.27-11.45.50:263][335]LogAudio: Display: Audio Device (ID: 10) registered with world 'Lvl_FirstPerson'.
+[2025.11.27-11.45.50:263][335]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.11.27-11.45.50:266][335]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.27-11.45.50:268][335]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.11.27-11.45.50
+[2025.11.27-11.45.50:269][335]LogWorld: Bringing up level for play took: 0.003300
+[2025.11.27-11.45.50:271][335]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.11.27-11.45.50:276][335]PIE: Server logged in
+[2025.11.27-11.45.50:278][335]PIE: Play in editor total start time 0.107 seconds.
+[2025.11.27-11.45.50:316][336]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.27-11.45.53:749][744]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Player Seen, BB Updated
+[2025.11.27-11.45.57:727][221]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Player Lost, BB Cleared
+[2025.11.27-11.46.02:221][760]LogBlueprintUserMessages: [ResetAlert_BTT_C_0] Setting IsSearching to False
+[2025.11.27-11.46.03:686][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.27-11.46.03:686][932]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.11.27-11.46.03:686][932]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.27-11.46.03:686][932]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-11.46.03:686][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-11.46.03:686][932]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.11.27-11.46.03:690][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.27-11.46.03:692][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-11.46.03:709][932]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.27-11.46.03:709][932]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.11.27-11.46.03:709][932]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2025.11.27-11.46.03:711][932]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2025.11.27-11.46.03:715][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.27-11.46.03:718][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.11.27-11.46.03:800][933]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.11.27-11.46.35:443][704]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-11.46.35:443][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-11.46.35:479][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.11.27-11.46.37:910][992]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-11.46.37:910][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-11.46.37:943][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.11.27-11.46.39:922][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.11.27-11.54.22:728][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.11.27-11.54.22:733][526]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.032
+[2025.11.27-11.54.22:733][526]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/BehaviourTrees/BaseAIBehaviour_BT] ([1] browsable assets)...
+[2025.11.27-11.54.22:733][526]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/BehaviourTrees/BaseAIBehaviour_BT]
+[2025.11.27-11.54.22:736][526]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CreativePractice/BehaviourTrees/BaseAIBehaviour_BT_Auto6
+[2025.11.27-11.54.22:736][526]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/BaseAIBehaviour_BT_Auto68E00B3554B1DD75B4F41B3A2C054EBAD.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/Autosaves/Game/CreativePractice/BehaviourTrees/BaseAIBehaviour_BT_Auto6.uasset'
+[2025.11.27-11.54.22:737][526]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/BehaviourTrees/RunAway_BTT] ([2] browsable assets)...
+[2025.11.27-11.54.22:737][526]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/BehaviourTrees/RunAway_BTT]
+[2025.11.27-11.54.22:743][526]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CreativePractice/BehaviourTrees/RunAway_BTT_Auto6
+[2025.11.27-11.54.22:743][526]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/RunAway_BTT_Auto6822DF7D047A9E5EB3AF65983947E95B1.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/Autosaves/Game/CreativePractice/BehaviourTrees/RunAway_BTT_Auto6.uasset'
+[2025.11.27-11.54.22:744][526]LogFileHelpers: Auto-saving content packages took 0.011
+[2025.11.27-12.23.52:963][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.11.27-12.23.53:995][389]LogSlate: Window 'Save Content' being destroyed
+[2025.11.27-12.23.54:015][389]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.27-12.23.54:070][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/BehaviourTrees/BaseAIBehaviour_BT] ([1] browsable assets)...
+[2025.11.27-12.23.54:070][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/BehaviourTrees/BaseAIBehaviour_BT]
+[2025.11.27-12.23.54:073][389]LogSavePackage: Moving output files for package: /Game/CreativePractice/BehaviourTrees/BaseAIBehaviour_BT
+[2025.11.27-12.23.54:073][389]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/BaseAIBehaviour_BT1D418E1B4B80ED7F2AC65CA4DB3F762F.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/CreativePractice/BehaviourTrees/BaseAIBehaviour_BT.uasset'
+[2025.11.27-12.23.54:074][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/Blueprints/BaseAIController_BP] ([2] browsable assets)...
+[2025.11.27-12.23.54:074][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/Blueprints/BaseAIController_BP]
+[2025.11.27-12.23.54:084][389]LogSavePackage: Moving output files for package: /Game/CreativePractice/Blueprints/BaseAIController_BP
+[2025.11.27-12.23.54:084][389]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/BaseAIController_BPC0A8F96F4874692706CE8B88D073F112.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/CreativePractice/Blueprints/BaseAIController_BP.uasset'
+[2025.11.27-12.23.54:085][389]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CreativePractice/Animations/BaseAI_AnimBP] ([2] browsable assets)...
+[2025.11.27-12.23.54:085][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/Animations/BaseAI_AnimBP]
+[2025.11.27-12.23.54:094][389]LogSavePackage: Moving output files for package: /Game/CreativePractice/Animations/BaseAI_AnimBP
+[2025.11.27-12.23.54:094][389]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/BaseAI_AnimBP6F1B92C840951B7EBA86BDAC7D657551.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/CreativePractice/Animations/BaseAI_AnimBP.uasset'
+[2025.11.27-12.23.54:095][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/Blueprints/BaseAI_BP] ([2] browsable assets)...
+[2025.11.27-12.23.54:095][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/Blueprints/BaseAI_BP]
+[2025.11.27-12.23.54:103][389]LogSavePackage: Moving output files for package: /Game/CreativePractice/Blueprints/BaseAI_BP
+[2025.11.27-12.23.54:103][389]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/BaseAI_BP441E03BA474A330093E493B33264A479.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/CreativePractice/Blueprints/BaseAI_BP.uasset'
+[2025.11.27-12.23.54:104][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/Blueprints/RunAwayAIController_BP] ([2] browsable assets)...
+[2025.11.27-12.23.54:104][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/Blueprints/RunAwayAIController_BP]
+[2025.11.27-12.23.54:107][389]LogSavePackage: Moving output files for package: /Game/CreativePractice/Blueprints/RunAwayAIController_BP
+[2025.11.27-12.23.54:107][389]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/RunAwayAIController_BPF291BF8B478D84B400D806B4907D2607.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/CreativePractice/Blueprints/RunAwayAIController_BP.uasset'
+[2025.11.27-12.23.54:109][389]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/CreativePractice/Blueprints/RunAwayAIController_BP.
+[2025.11.27-12.23.54:110][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/Blueprints/RunAwayAI_BP] ([2] browsable assets)...
+[2025.11.27-12.23.54:110][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/Blueprints/RunAwayAI_BP]
+[2025.11.27-12.23.54:113][389]LogSavePackage: Moving output files for package: /Game/CreativePractice/Blueprints/RunAwayAI_BP
+[2025.11.27-12.23.54:114][389]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/RunAwayAI_BP6D5EE22F4BAA410FC0F5ADBFB83870AB.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/CreativePractice/Blueprints/RunAwayAI_BP.uasset'
+[2025.11.27-12.23.54:116][389]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/KD/UPPGVJ4Z90WWRY01EN2JLH
+[2025.11.27-12.23.54:116][389]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/UPPGVJ4Z90WWRY01EN2JLH33FF15834976EC6D25B55B8DB8ADEDF9.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/KD/UPPGVJ4Z90WWRY01EN2JLH.uasset'
+[2025.11.27-12.23.54:118][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/BehaviourTrees/RunAway_BTT] ([2] browsable assets)...
+[2025.11.27-12.23.54:118][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/BehaviourTrees/RunAway_BTT]
+[2025.11.27-12.23.54:122][389]LogSavePackage: Moving output files for package: /Game/CreativePractice/BehaviourTrees/RunAway_BTT
+[2025.11.27-12.23.54:122][389]LogSavePackage: Moving '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/RunAway_BTT2E2817354A2FB4C2A0C1969E6F11B1CA.tmp' to '../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/CreativePractice/BehaviourTrees/RunAway_BTT.uasset'
+[2025.11.27-12.23.54:124][389]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/CreativePractice/BehaviourTrees/RunAway_BTT.
+[2025.11.27-12.23.54:132][389]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.746 ms (total: 348.491 ms)
+[2025.11.27-12.23.54:162][389]LogStall: Shutdown...
+[2025.11.27-12.23.54:162][389]LogStall: Shutdown complete.
+[2025.11.27-12.23.54:236][389]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-12.23.54:236][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-12.23.54:281][389]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.27-12.23.54:281][389]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-12.23.54:281][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-12.23.54:338][389]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-12.23.54:338][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-12.23.54:371][389]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.27-12.23.54:371][389]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-12.23.54:371][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-12.23.54:400][389]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.27-12.23.54:400][389]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-12.23.54:400][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-12.23.54:443][389]LogSlate: Window 'Creative_Practice_AI - Unreal Editor' being destroyed
+[2025.11.27-12.23.54:560][389]LogContentValidation: Display: Starting to validate 8 assets
+[2025.11.27-12.23.54:560][389]LogContentValidation: Enabled validators:
+[2025.11.27-12.23.54:560][389]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.27-12.23.54:560][389]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.27-12.23.54:560][389]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.27-12.23.54:560][389]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.27-12.23.54:560][389]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.27-12.23.54:560][389]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.27-12.23.54:560][389]AssetCheck: /Game/CreativePractice/BehaviourTrees/BaseAIBehaviour_BT Validating asset
+[2025.11.27-12.23.54:560][389]AssetCheck: /Game/CreativePractice/Blueprints/BaseAIController_BP Validating asset
+[2025.11.27-12.23.54:560][389]AssetCheck: /Game/CreativePractice/Animations/BaseAI_AnimBP Validating asset
+[2025.11.27-12.23.54:560][389]AssetCheck: /Game/CreativePractice/Blueprints/BaseAI_BP Validating asset
+[2025.11.27-12.23.54:560][389]AssetCheck: /Game/CreativePractice/Blueprints/RunAwayAIController_BP Validating asset
+[2025.11.27-12.23.54:560][389]AssetCheck: /Game/CreativePractice/Blueprints/RunAwayAI_BP Validating asset
+[2025.11.27-12.23.54:560][389]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.11.27-12.23.54:560][389]AssetCheck: /Game/CreativePractice/BehaviourTrees/RunAway_BTT Validating asset
+[2025.11.27-12.23.54:628][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.11.27-12.23.54:682][389]Cmd: QUIT_EDITOR
+[2025.11.27-12.23.54:682][389]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.11.27-12.23.54:683][389]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/cturnb300/Documents/GitHub/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.27-12.23.55:515][390]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.11.27-12.23.55:516][390]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.11.27-12.23.55:516][390]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.11.27-12.23.55:517][390]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-12.23.55:517][390]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.27-12.23.55:517][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-12.23.55:517][390]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2025.11.27-12.23.55:523][390]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.11.27-12.23.55:523][390]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.11.27-12.23.55:523][390]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.11.27-12.23.55:528][390]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-12.23.55:528][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-12.23.55:531][390]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-12.23.55:531][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-12.23.55:532][390]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-12.23.55:533][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-12.23.55:534][390]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-12.23.55:534][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-12.23.55:536][390]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-12.23.55:536][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-12.23.55:537][390]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-12.23.55:537][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-12.23.55:539][390]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-12.23.55:539][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-12.23.55:541][390]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-12.23.55:541][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-12.23.55:542][390]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-12.23.55:542][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-12.23.55:544][390]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-12.23.55:544][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-12.23.55:546][390]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-12.23.55:546][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-12.23.55:547][390]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-12.23.55:547][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-12.23.55:550][390]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.11.27-12.23.55:550][390]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.11.27-12.23.55:552][390]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.11.27-12.23.55:964][390]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.11.27-12.23.55:964][390]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.11.27-12.23.55:964][390]LogAudio: Display: Audio Device unregistered from world 'Lvl_FirstPerson'.
+[2025.11.27-12.23.55:964][390]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.11.27-12.23.55:964][390]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.11.27-12.23.55:964][390]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.11.27-12.23.55:978][390]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.11.27-12.23.55:978][390]LogAudio: Display: Audio Device Manager Shutdown
+[2025.11.27-12.23.55:981][390]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.11.27-12.23.55:983][390]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.11.27-12.23.55:985][390]LogExit: Preparing to exit.
+[2025.11.27-12.23.56:018][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.11.27-12.23.56:024][390]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.27-12.23.56:024][390]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.27-12.23.56:024][390]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.27-12.23.56:024][390]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.27-12.23.56:024][390]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.27-12.23.56:024][390]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.27-12.23.56:024][390]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.27-12.23.56:024][390]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.27-12.23.56:024][390]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.27-12.23.56:024][390]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.27-12.23.56:024][390]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.27-12.23.56:024][390]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.27-12.23.56:025][390]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.27-12.23.56:025][390]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.27-12.23.56:025][390]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.27-12.23.56:025][390]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.27-12.23.56:025][390]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.27-12.23.56:025][390]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.27-12.23.56:025][390]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.27-12.23.56:025][390]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.27-12.23.56:025][390]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.27-12.23.56:735][390]LogEditorDataStorage: Deinitializing
+[2025.11.27-12.23.56:856][390]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.11.27-12.23.56:867][390]LogExit: Editor shut down
+[2025.11.27-12.23.56:868][390]LogExit: Transaction tracking system shut down
+[2025.11.27-12.23.57:000][390]LogExit: Object subsystem successfully closed.
+[2025.11.27-12.23.57:080][390]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.11.27-12.23.57:135][390]LogMemoryProfiler: Shutdown
+[2025.11.27-12.23.57:135][390]LogNetworkingProfiler: Shutdown
+[2025.11.27-12.23.57:135][390]LoadingProfiler: Shutdown
+[2025.11.27-12.23.57:135][390]LogTimingProfiler: Shutdown
+[2025.11.27-12.23.57:135][390]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.11.27-12.23.57:135][390]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.11.27-12.23.57:395][390]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.11.27-12.23.57:402][390]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.11.27-12.23.57:402][390]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA471122E-4A1F-1D6A-4E0E-EFACD04F5825%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=73fa1f5d4293b89eb4d7069d1edd9932%7C%7Caa4e021d-6da1-458d-995b-bfd9976b5b87&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.11.27-12.23.57:416][390]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.11.27-12.23.57:416][390]RenderDocPlugin: plugin has been unloaded.
+[2025.11.27-12.23.57:425][390]LogNFORDenoise: NFORDenoise function shutting down
+[2025.11.27-12.23.57:426][390]LogXGEController: Cleaning working directory: C:/Users/cturnb300/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.11.27-12.23.57:428][390]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.11.27-12.23.57:428][390]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.11.27-12.23.57:428][390]LogPakFile: Destroying PakPlatformFile
+[2025.11.27-12.23.58:071][390]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.11.27-12.23.58:131][390]LogExit: Exiting.
+[2025.11.27-12.23.58:144][390]Log file closed, 11/27/25 12:23:58
