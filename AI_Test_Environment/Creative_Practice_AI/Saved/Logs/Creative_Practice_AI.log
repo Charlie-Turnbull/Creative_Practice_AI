@@ -6386,3 +6386,267 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.09-18.29.28:792][956]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5093.343262
 [2025.12.09-18.29.29:787][959]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.09-18.29.29:787][959]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5094.005371, Update Interval: 342.725311
+[2025.12.09-18.32.55:668][284]LogSlate: Took 0.000382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.12.09-18.32.56:907][431]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.12.09-18.36.12:089][689]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5496.650879
+[2025.12.09-18.36.13:089][692]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-18.36.13:089][692]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5497.318359, Update Interval: 312.772003
+[2025.12.09-18.42.07:156][754]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5851.728027
+[2025.12.09-18.42.08:156][757]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-18.42.08:156][757]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5852.395020, Update Interval: 300.684845
+[2025.12.09-18.48.00:903][815]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6205.483887
+[2025.12.09-18.48.01:903][818]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-18.48.01:903][818]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6206.150391, Update Interval: 316.611847
+[2025.12.09-18.53.51:297][866]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6555.892578
+[2025.12.09-18.53.52:297][869]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-18.53.52:297][869]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6556.558594, Update Interval: 329.151276
+[2025.12.09-19.00.04:043][984]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6928.654785
+[2025.12.09-19.00.05:043][987]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-19.00.05:043][987]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6929.321777, Update Interval: 345.971863
+[2025.12.09-19.06.31:738][147]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.004 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.09-19.06.41:463][176]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7326.091309
+[2025.12.09-19.06.42:463][179]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-19.06.42:463][179]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7326.758301, Update Interval: 303.614624
+[2025.12.09-19.12.26:527][211]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7671.169922
+[2025.12.09-19.12.27:528][214]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-19.12.27:528][214]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7671.836914, Update Interval: 313.709534
+[2025.12.09-19.18.18:291][266]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8022.945801
+[2025.12.09-19.18.19:290][269]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-19.18.19:290][269]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8023.611816, Update Interval: 340.579254
+[2025.12.09-19.24.53:717][452]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8418.362305
+[2025.12.09-19.24.54:718][455]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-19.24.54:718][455]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8419.029297, Update Interval: 315.209198
+[2025.12.09-19.30.44:476][504]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8769.104492
+[2025.12.09-19.30.45:475][507]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-19.30.45:475][507]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8769.770508, Update Interval: 340.181885
+[2025.12.09-19.36.57:372][622]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9141.916992
+[2025.12.09-19.36.58:372][625]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-19.36.58:372][625]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9142.583008, Update Interval: 306.994843
+[2025.12.09-19.42.39:804][649]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9484.243164
+[2025.12.09-19.42.41:137][653]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-19.42.41:138][653]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9485.242188, Update Interval: 348.777130
+[2025.12.09-19.49.21:217][853]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9885.585938
+[2025.12.09-19.49.22:216][856]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-19.49.22:216][856]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9886.251953, Update Interval: 325.003815
+[2025.12.09-19.55.22:977][938]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10247.317383
+[2025.12.09-19.55.23:979][941]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-19.55.23:979][941]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10247.983398, Update Interval: 318.364197
+[2025.12.09-20.01.33:395][ 49]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10617.665039
+[2025.12.09-20.01.34:397][ 52]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-20.01.34:397][ 52]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10618.331055, Update Interval: 314.374207
+[2025.12.09-20.06.31:735][944]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.09-20.07.41:130][152]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10985.315430
+[2025.12.09-20.07.42:130][155]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-20.07.42:130][155]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10985.981445, Update Interval: 329.711609
+[2025.12.09-20.13.45:181][244]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11349.290039
+[2025.12.09-20.13.46:183][247]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-20.13.46:183][247]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11349.957031, Update Interval: 352.640778
+[2025.12.09-20.20.28:249][453]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11752.251953
+[2025.12.09-20.20.29:250][456]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-20.20.29:250][456]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11752.919922, Update Interval: 336.080200
+[2025.12.09-20.26.37:304][560]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12121.248047
+[2025.12.09-20.26.38:304][563]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-20.26.38:305][563]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12121.914062, Update Interval: 338.196960
+[2025.12.09-20.32.49:370][676]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12493.199219
+[2025.12.09-20.32.50:370][679]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-20.32.50:370][679]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12493.866211, Update Interval: 314.403503
+[2025.12.09-20.38.46:428][748]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12850.177734
+[2025.12.09-20.38.47:419][750]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-20.38.47:419][750]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12850.835938, Update Interval: 345.909607
+[2025.12.09-20.45.09:470][896]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13233.125000
+[2025.12.09-20.45.10:470][899]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-20.45.10:470][899]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13233.791016, Update Interval: 300.796539
+[2025.12.09-20.47.57:660][ 44]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.09-20.47.57:984][ 44]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.09-20.47.58:001][ 44]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.12.09-20.47.58:227][ 44]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 242.181 ms (total: 265.536 ms)
+[2025.12.09-20.47.58:762][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.09-20.47.58:936][ 44]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.12.09-20.47.59:459][ 44]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.09-20.47.59:462][ 44]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.422 ms (total: 13.199 ms)
+[2025.12.09-20.47.59:463][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.524903s)
+[2025.12.09-20.47.59:463][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.526003s)
+[2025.12.09-20.48.01:237][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2025.12.09-20.48.01:486][ 44]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.12.09-20.48.02:433][ 44]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.09-20.48.02:433][ 44]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.09-20.48.02:435][ 44]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.09-20.48.02:435][ 44]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.09-20.48.02:509][ 44]LogWorldPartition: Display: WorldPartition initialize took 75.883 ms (total: 233.500 ms)
+[2025.12.09-20.48.02:568][ 44]LogPlayLevel: PIE: World Init took: (1.111369s)
+[2025.12.09-20.48.02:680][ 44]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.12.09-20.48.02:702][ 44]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.09-20.48.02:702][ 44]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.09-20.48.02:702][ 44]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.09-20.48.02:702][ 44]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.09-20.48.02:702][ 44]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.09-20.48.02:702][ 44]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.09-20.48.02:702][ 44]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.09-20.48.02:704][ 44]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.09-20.48.02:740][ 44]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.09-20.48.02:740][ 44]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.09-20.48.02:740][ 44]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.09-20.48.02:786][ 44]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.09-20.48.02:896][ 44]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX QuadCast)
+[2025.12.09-20.48.02:960][ 44]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.09-20.48.02:965][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.09-20.48.02:967][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.09-20.48.02:975][ 44]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.12.09-20.48.02:975][ 44]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.12.09-20.48.02:980][ 44]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.12.09-20.48.02:980][ 44]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.12.09-20.48.02:990][ 44]LogInit: FAudioDevice initialized with ID 13.
+[2025.12.09-20.48.02:991][ 44]LogAudio: Display: Audio Device (ID: 13) registered with world 'Lvl_FirstPerson'.
+[2025.12.09-20.48.03:011][ 44]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.12.09-20.48.03:307][ 44]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.09-20.48.03:858][ 44]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 3) at 2025.12.09-20.48.03
+[2025.12.09-20.48.03:951][ 44]LogWorld: Bringing up level for play took: 0.570595
+[2025.12.09-20.48.04:128][ 44]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.12.09-20.48.04:702][ 44]PIE: Server logged in
+[2025.12.09-20.48.04:714][ 44]PIE: Play in editor total start time 6.815 seconds.
+[2025.12.09-20.48.05:999][ 45]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.09-20.48.16:850][ 86]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Player Seen, BB Updated
+[2025.12.09-20.48.23:089][115]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Player Lost, BB Cleared
+[2025.12.09-20.48.24:926][124]LogBlueprintUserMessages: [BaseAIController_BP_C_0] Player Seen, BB Updated
+[2025.12.09-20.48.27:322][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.09-20.48.27:322][134]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.12.09-20.48.27:406][134]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.09-20.48.27:559][134]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-20.48.27:636][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-20.48.27:636][134]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.12.09-20.48.28:200][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.09-20.48.28:206][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-20.48.28:332][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.09-20.48.28:425][134]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.12.09-20.48.28:452][134]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2025.12.09-20.48.28:527][134]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2025.12.09-20.48.28:964][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.12.09-20.48.29:967][135]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.12.09-20.50.42:198][433]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13565.806641
+[2025.12.09-20.50.43:198][436]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-20.50.43:198][436]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13566.473633, Update Interval: 328.737457
+[2025.12.09-20.57.11:261][600]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13954.831055
+[2025.12.09-20.57.12:262][603]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-20.57.12:262][603]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13955.498047, Update Interval: 301.986755
+[2025.12.09-21.02.54:304][627]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14297.795898
+[2025.12.09-21.02.55:305][630]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-21.02.55:305][630]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14298.462891, Update Interval: 311.363861
+[2025.12.09-21.06.31:735][280]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.09-21.08.46:370][683]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14649.768555
+[2025.12.09-21.08.47:371][686]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-21.08.47:371][686]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14650.436523, Update Interval: 349.364899
+[2025.12.09-21.15.14:803][848]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15038.146484
+[2025.12.09-21.15.15:803][851]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-21.15.15:803][851]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15038.812500, Update Interval: 355.519287
+[2025.12.09-21.22.10:918][ 96]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15454.250000
+[2025.12.09-21.22.11:918][ 99]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-21.22.11:918][ 99]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15454.916992, Update Interval: 344.494141
+[2025.12.09-21.28.46:345][282]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15849.613281
+[2025.12.09-21.28.47:346][285]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-21.28.47:346][285]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15850.280273, Update Interval: 333.183380
+[2025.12.09-21.34.56:414][392]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16219.577148
+[2025.12.09-21.34.57:414][395]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-21.34.57:414][395]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16220.244141, Update Interval: 352.428345
+[2025.12.09-21.41.33:811][584]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16617.185547
+[2025.12.09-21.41.34:811][587]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-21.41.34:811][587]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16617.853516, Update Interval: 324.339111
+[2025.12.09-21.47.45:214][698]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16988.972656
+[2025.12.09-21.47.46:214][701]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-21.47.46:214][701]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16989.640625, Update Interval: 323.581055
+[2025.12.09-21.53.41:292][766]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17345.269531
+[2025.12.09-21.53.42:293][769]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-21.53.42:293][769]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17345.937500, Update Interval: 338.174988
+[2025.12.09-22.00.19:718][961]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17744.009766
+[2025.12.09-22.00.20:718][964]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-22.00.20:718][964]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17744.677734, Update Interval: 359.697876
+[2025.12.09-22.04.37:474][922]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-22.04.38:267][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/1I/YMLD7OHRW615OCZJG9DVHK
+[2025.12.09-22.04.38:269][922]LogSavePackage: Moving '../../../../../../Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/YMLD7OHRW615OCZJG9DVHK6A74A346463E635C42110394738F44A0.tmp' to '../../../../../../Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/1I/YMLD7OHRW615OCZJG9DVHK.uasset'
+[2025.12.09-22.04.38:546][922]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.07 sec (total: 1.61 sec)
+[2025.12.09-22.04.38:858][922]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-22.04.38:858][922]LogContentValidation: Enabled validators:
+[2025.12.09-22.04.38:858][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-22.04.38:858][922]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-22.04.38:859][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-22.04.38:859][922]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-22.04.38:859][922]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-22.04.38:859][922]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-22.04.38:881][922]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.12.09-22.04.41:659][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2025.12.09-22.04.43:699][ 41]LogSlate: Window 'Save Content' being destroyed
+[2025.12.09-22.04.43:731][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-22.04.43:782][ 41]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/Blueprints/BaseAIController_BP] ([2] browsable assets)...
+[2025.12.09-22.04.43:783][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/Blueprints/BaseAIController_BP]
+[2025.12.09-22.04.44:056][ 41]LogSavePackage: Moving output files for package: /Game/CreativePractice/Blueprints/BaseAIController_BP
+[2025.12.09-22.04.44:057][ 41]LogSavePackage: Moving '../../../../../../Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/BaseAIController_BPBDD19BB840C24B435100988C375168DD.tmp' to '../../../../../../Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/CreativePractice/Blueprints/BaseAIController_BP.uasset'
+[2025.12.09-22.04.44:076][ 41]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/Blueprints/ScaredAI_BP] ([2] browsable assets)...
+[2025.12.09-22.04.44:076][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/Blueprints/ScaredAI_BP]
+[2025.12.09-22.04.44:160][ 41]LogSavePackage: Moving output files for package: /Game/CreativePractice/Blueprints/ScaredAI_BP
+[2025.12.09-22.04.44:164][ 41]LogSavePackage: Moving '../../../../../../Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/ScaredAI_BP06955CDC4189A67D908BE685BFEDCB52.tmp' to '../../../../../../Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/CreativePractice/Blueprints/ScaredAI_BP.uasset'
+[2025.12.09-22.04.44:189][ 41]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CreativePractice/BehaviourTrees/ScaredAI_BT] ([1] browsable assets)...
+[2025.12.09-22.04.44:189][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreativePractice/BehaviourTrees/ScaredAI_BT]
+[2025.12.09-22.04.44:230][ 41]LogSavePackage: Moving output files for package: /Game/CreativePractice/BehaviourTrees/ScaredAI_BT
+[2025.12.09-22.04.44:236][ 41]LogSavePackage: Moving '../../../../../../Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Saved/ScaredAI_BT1D14CFF74290F7A6768F3AA97F1131AE.tmp' to '../../../../../../Uni/UnrealTutorials/Creative_Practice_AI/AI_Test_Environment/Creative_Practice_AI/Content/CreativePractice/BehaviourTrees/ScaredAI_BT.uasset'
+[2025.12.09-22.04.44:246][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave took 515.369 ms (total: 2.12 sec)
+[2025.12.09-22.04.44:524][ 41]LogStall: Shutdown...
+[2025.12.09-22.04.44:525][ 41]LogStall: Shutdown complete.
+[2025.12.09-22.04.45:693][ 41]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-22.04.45:781][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-22.04.46:854][ 41]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-22.04.46:854][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-22.04.47:282][ 41]LogSlate: Window 'Creative_Practice_AI - Unreal Editor' being destroyed
+[2025.12.09-22.04.48:309][ 41]LogContentValidation: Display: Starting to validate 3 assets
+[2025.12.09-22.04.48:309][ 41]LogContentValidation: Enabled validators:
+[2025.12.09-22.04.48:309][ 41]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-22.04.48:309][ 41]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-22.04.48:309][ 41]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-22.04.48:309][ 41]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-22.04.48:309][ 41]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-22.04.48:309][ 41]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-22.04.48:309][ 41]AssetCheck: /Game/CreativePractice/Blueprints/BaseAIController_BP Validating asset
+[2025.12.09-22.04.48:309][ 41]AssetCheck: /Game/CreativePractice/Blueprints/ScaredAI_BP Validating asset
+[2025.12.09-22.04.48:309][ 41]AssetCheck: /Game/CreativePractice/BehaviourTrees/ScaredAI_BT Validating asset
+[2025.12.09-22.04.48:971][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.12.09-22.04.49:025][ 41]Cmd: QUIT_EDITOR
+[2025.12.09-22.04.49:035][ 41]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.12.09-22.04.49:161][ 42]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.12.09-22.04.49:235][ 42]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.12.09-22.04.49:235][ 42]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.12.09-22.04.49:590][ 42]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-22.04.49:746][ 42]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.09-22.04.49:750][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-22.04.49:750][ 42]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2025.12.09-22.04.52:047][ 42]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.12.09-22.04.52:087][ 42]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.12.09-22.04.52:620][ 42]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.12.09-22.04.53:976][ 42]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-22.04.53:981][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-22.04.53:985][ 42]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-22.04.53:985][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-22.04.53:988][ 42]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-22.04.53:988][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-22.04.53:991][ 42]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-22.04.53:993][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-22.04.53:996][ 42]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-22.04.53:997][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-22.04.53:999][ 42]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-22.04.53:999][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-22.04.54:003][ 42]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-22.04.54:003][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-22.04.54:006][ 42]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-22.04.54:006][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-22.04.54:009][ 42]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-22.04.54:010][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-22.04.54:013][ 42]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-22.04.54:013][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-22.04.54:016][ 42]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-22.04.54:017][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-22.04.54:250][ 42]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-22.04.54:250][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-22.04.54:254][ 42]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-22.04.54:254][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-22.04.54:496][ 42]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.12.09-22.04.54:508][ 42]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.12.09-22.04.54:841][ 42]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
