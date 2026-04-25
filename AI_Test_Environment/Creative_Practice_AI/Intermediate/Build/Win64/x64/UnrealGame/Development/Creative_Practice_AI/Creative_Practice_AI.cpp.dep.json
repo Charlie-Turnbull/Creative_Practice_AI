@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\uni\\unrealtutorials\\creative_practice_ai\\ai_test_environment\\creative_practice_ai\\intermediate\\source\\creative_practice_ai.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\uni\\unrealtutorials\\creative_practice_ai\\ai_test_environment\\creative_practice_ai\\intermediate\\build\\win64\\x64\\creative_practice_ai\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\uni\\unrealtutorials\\creative_practice_ai\\ai_test_environment\\creative_practice_ai\\intermediate\\build\\win64\\x64\\unrealgame\\development\\creative_practice_ai\\definitions.creative_practice_ai.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

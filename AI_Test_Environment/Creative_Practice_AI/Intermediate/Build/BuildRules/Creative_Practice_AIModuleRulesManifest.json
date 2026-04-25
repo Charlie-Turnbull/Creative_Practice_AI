@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"E:\\Uni\\UnrealTutorials\\Creative_Practice_AI\\AI_Test_Environment\\Creative_Practice_AI\\Intermediate\\Source\\Creative_Practice_AI.Build.cs",
+		"E:\\Uni\\UnrealTutorials\\Creative_Practice_AI\\AI_Test_Environment\\Creative_Practice_AI\\Intermediate\\Source\\Creative_Practice_AI.Target.cs",
+		"E:\\Uni\\UnrealTutorials\\Creative_Practice_AI\\AI_Test_Environment\\Creative_Practice_AI\\Intermediate\\Source\\Creative_Practice_AIClient.Target.cs",
+		"E:\\Uni\\UnrealTutorials\\Creative_Practice_AI\\AI_Test_Environment\\Creative_Practice_AI\\Intermediate\\Source\\Creative_Practice_AIEditor.Target.cs",
+		"E:\\Uni\\UnrealTutorials\\Creative_Practice_AI\\AI_Test_Environment\\Creative_Practice_AI\\Intermediate\\Source\\Creative_Practice_AIServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
